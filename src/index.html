@@ -47,17 +47,21 @@
             <a class="nav-link" href="#overview">Overview</a>
           </li>
         </ul>
-        <form class="d-flex">
-          <i class="fas fa-search fs-5 d-none d-md-block d-lg-none"></i>
-          <input class="form-control me-sm-3 rounded-pill" type="search"
-            placeholder="Explore our wide range of courses">
-          <a class="btn btn-outline-primary me-2" href="Views/loginSignup.html?action=login">Login</a>
-          <a class="btn btn-primary" href="Views/loginSignup.html?action=signup">join for free</a>
-        </form>
-        <div class="profile d-none">
-          <img src="Assets/Images/profile-photo.svg" alt="profile-photo" class="profile-photo">
-          <button class="logOut" type="button">Log Out</button>
-          <p class="profile-name ps-2 mb-0"></p>
+        <div class="right-section d-flex">
+          <form class="d-flex">
+            <i class="fas fa-search fs-5 d-none d-md-block d-lg-none"></i>
+            <input class="form-control me-sm-3 rounded-pill" type="search" placeholder="Explore our courses">
+            <a class="btn btn-outline-primary me-2" href="Views/loginSignup.html?action=login">Login</a>
+            <a class="btn btn-primary" href="Views/loginSignup.html?action=signup">join for free</a>
+          </form>
+          <div class="profile d-none">
+            <img src="Assets/Images/profile-photo.svg" alt="profile-photo" class="profile-photo">
+            <button class="logOut" type="button">Log Out</button>
+            <div class="name d-flex">
+              <p class="profile-name ps-2 mb-0"></p>
+              <i class="fas fa-chevron-down fs-6 ms-2"></i>
+            </div>
+          </div>
         </div>
       </div>
     </div>

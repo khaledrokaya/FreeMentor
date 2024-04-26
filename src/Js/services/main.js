@@ -4,8 +4,8 @@ window.addEventListener('load', function () {
     if (localStorage.getItem('name')) {
         loginAndSignup.forEach(elem => elem.style.display = 'none');
         let name = localStorage.name;
-        name = name.split(' ')[0]+' '+name.split(' ')[1];
-        profile.lastElementChild.textContent = name;
+        if(name.split(' ').length >=2 )name = name.split(' ')[0]+' '+name.split(' ')[1];
+        profile.querySelector('p').textContent = name;
         if (localStorage.getItem('photo'))
             profile.firstElementChild.src = window.localStorage.photo;
         profile.classList.remove('d-none');
