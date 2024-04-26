@@ -1,0 +1,193 @@
+[
+  {
+    "_class": "course",
+    "id": 5798868,
+    "title": "Google Gemini AI with Python API - Quick Start",
+    "url": "/course/google-gemini-ai-with-python-api/",
+    "is_paid": false,
+    "price": "Free",
+    "price_detail": null,
+    "price_serve_tracking_id": "94aJH57ISWS469wrsosnKQ",
+    "visible_instructors": [
+      {
+        "_class": "user",
+        "title": "Jose Portilla",
+        "name": "Jose",
+        "display_name": "Jose Portilla",
+        "job_title": "Head of Data Science at Pierian Training",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
+        "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
+        "initials": "JP",
+        "url": "/user/joseportilla/"
+      }
+    ],
+    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5798868_61e3_2.jpg",
+    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5798868_61e3_2.jpg",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5798868_61e3_2.jpg",
+    "published_title": "google-gemini-ai-with-python-api",
+    "tracking_id": "",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "title": "English (US)",
+      "english_title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "headline": "Learn how to leverage Google's powerful new Gemini AI model in just two hours!",
+    "instructor_name": null
+  },
+  {
+    "_class": "course",
+    "id": 473160,
+    "title": "Web Design for Web Developers: Build Beautiful Websites!",
+    "url": "/course/web-design-secrets/",
+    "is_paid": false,
+    "price": "Free",
+    "price_detail": null,
+    "price_serve_tracking_id": "WN17-Lw1QmKF-rND0X9FYQ",
+    "visible_instructors": [
+      {
+        "_class": "user",
+        "title": "Jonas Schmedtmann",
+        "name": "Jonas",
+        "display_name": "Jonas Schmedtmann",
+        "job_title": "Web Developer, Designer, and Teacher",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/7799204_2091_5.jpg",
+        "image_100x100": "https://img-c.udemycdn.com/user/100x100/7799204_2091_5.jpg",
+        "initials": "JS",
+        "url": "/user/jonasschmedtmann/"
+      }
+    ],
+    "image_125_H": "https://img-c.udemycdn.com/course/125_H/473160_d929_3.jpg",
+    "image_240x135": "https://img-c.udemycdn.com/course/240x135/473160_d929_3.jpg",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/473160_d929_3.jpg",
+    "published_title": "web-design-secrets",
+    "tracking_id": "",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "title": "English (US)",
+      "english_title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "headline": "Learn web design in 1 hour with 25+ simple-to-use rules and guidelines — tons of amazing web design resources included!",
+    "instructor_name": null
+  },
+  {
+    "_class": "course",
+    "id": 5741978,
+    "title": "Master Gemini AI - Google Bard Prompt Engineering Bootcamp",
+    "url": "/course/master-gemini-ai-google-bard-prompt-engineering-bootcamp/",
+    "is_paid": false,
+    "price": "Free",
+    "price_detail": null,
+    "price_serve_tracking_id": "KMkUR5MEREy9cW0Q-YJyFw",
+    "visible_instructors": [
+      {
+        "_class": "user",
+        "title": "Jose Portilla",
+        "name": "Jose",
+        "display_name": "Jose Portilla",
+        "job_title": "Head of Data Science at Pierian Training",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
+        "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
+        "initials": "JP",
+        "url": "/user/joseportilla/"
+      }
+    ],
+    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5741978_bb2b_2.jpg",
+    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5741978_bb2b_2.jpg",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5741978_bb2b_2.jpg",
+    "published_title": "master-gemini-ai-google-bard-prompt-engineering-bootcamp",
+    "tracking_id": "",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "title": "English (US)",
+      "english_title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "headline": "Learn the power of Google's Gemini Models with Bard and get the latest skills in AI!",
+    "instructor_name": null
+  },
+  {
+    "_class": "course",
+    "id": 433798,
+    "title": "Introduction To Python Programming",
+    "url": "/course/pythonforbeginnersintro/",
+    "is_paid": false,
+    "price": "Free",
+    "price_detail": null,
+    "price_serve_tracking_id": "hH0nEDFyRLyLgQYrWayIVQ",
+    "visible_instructors": [
+      {
+        "_class": "user",
+        "title": "Avinash Jain",
+        "name": "Avinash",
+        "display_name": "Avinash Jain",
+        "job_title": "Taught 1 million students how to code",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/10260436_946b_6.jpg",
+        "image_100x100": "https://img-c.udemycdn.com/user/100x100/10260436_946b_6.jpg",
+        "initials": "AJ",
+        "url": "/user/avinashjain5/"
+      },
+      {
+        "_class": "user",
+        "title": "The Codex",
+        "name": "The",
+        "display_name": "The Codex",
+        "job_title": "Teaching Python through Projects",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/52310762_220a.jpg",
+        "image_100x100": "https://img-c.udemycdn.com/user/100x100/52310762_220a.jpg",
+        "initials": "TC",
+        "url": "/user/thecodex/"
+      }
+    ],
+    "image_125_H": "https://img-c.udemycdn.com/course/125_H/433798_1de9_4.jpg",
+    "image_240x135": "https://img-c.udemycdn.com/course/240x135/433798_1de9_4.jpg",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/433798_1de9_4.jpg",
+    "published_title": "pythonforbeginnersintro",
+    "tracking_id": "",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "title": "English (US)",
+      "english_title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "headline": "A Quick and Easy Intro to Python Programming",
+    "instructor_name": null
+  }
+]
