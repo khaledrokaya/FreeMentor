@@ -11,7 +11,8 @@ const dbConfig = {
   host: 'localhost',
   user: 'root',
   password: '282004',
-  database: 'freementor'
+  database: 'freementor',
+  port: '3001'
 };
 const connection = mysql.createConnection(dbConfig);
 
