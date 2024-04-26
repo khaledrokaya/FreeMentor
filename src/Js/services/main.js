@@ -25,4 +25,11 @@ window.addEventListener('load', function () {
         searchInput.classList.toggle('active');
         if (searchInput.classList.contains('active')) searchInput.focus();
     });
+    
+    profile.addEventListener('click', () => { profile.classList.toggle('active') });
+    document.querySelector('.logOut').addEventListener('click', (e) => {
+        e.preventDefault();
+        localStorage.clear();
+        location.reload();
+    });
 });

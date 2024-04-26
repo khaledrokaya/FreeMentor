@@ -33,12 +33,36 @@ footer ul li a { font-weight: 300; font-size: 18px; }
 .navbar input:focus,
 .navbar .navbar-toggler:focus { box-shadow: none; }
 .navbar form,
-.navbar .profile { min-width: fit-content; align-items: center; }
+.navbar .profile { min-width: fit-content; align-items: center; cursor: pointer; }
+.navbar .profile * { cursor: pointer; }
 .navbar .profile img { width: 50px; height: 50px; border-radius: 50%; }
 .navbar form { width: 70%; align-items: center; justify-content: flex-end; }
 .navbar form :nth-child(2) { width: 50%;}
 .navbar form *:not(:nth-child(2)) { justify-content: center; }
 .navbar form :first-child { margin-right: 15px; }
+.navbar .profile.active .logOut { display: block; }
+.navbar .logOut {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 8rem;
+    right: 4px;
+    padding: 5px;
+    border: none;
+    border-radius: 9999px;
+    background-color: #EEE;
+    box-shadow: 5px 0px 15px rgba(0, 0, 0, 0.35); 
+}
+.navbar .logOut::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -43px;
+    right: 20px;
+    border: 21px solid;
+    border-color: transparent transparent #e8e8e8  transparent;
+}
 @media (max-width: 768px) {
     .navbar { position: relative; }
     .navbar form { width: 100%; justify-content: center; flex-direction: column; }
