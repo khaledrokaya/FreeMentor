@@ -7,19 +7,14 @@ const fs = require('fs')
 const app = express();
 app.use(bodyParser.json());
 
-const connection = mysql.createPool({
-    host: process.env.DB_HOST, 
-    user: process.env.DB_USERNAME, 
-    password: process.env.DB_PASSWORD,
-    database: process.env.DB_DBNAME,
-    waitForConnections: true,
-    connectionLimit: 10,
-    queueLimit: 0
-});
-connection.getConnection((err, conn) => {
-    if(err) console.log(err)
-    console.log("Connected successfully")
-})
+const dbConfig = {
+  host: 'bgtxdgwdkjspr10mgzjx-mysql.services.clever-cloud.com',
+  user: 'usbuexqp4neirm6j',
+  password: 'LoCjEip1jPp01eyRuB1w',
+  database: 'bgtxdgwdkjspr10mgzjx'
+};
+
+const connection = mysql.createConnection(dbConfig);
 
 async function LogIn(loginData) {
   return new Promise((resolve, reject) => {
