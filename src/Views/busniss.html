@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
+  <link href="../Libs/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="shortcut icon" href="../Assets/Images/logo-color.svg" type="image/x-icon">
+  <link rel="stylesheet" href="../Libs/FontAwesome/css/all.min.css">
+  <link href="../Style/master.css" rel="stylesheet">
+  <title>Business</title>
+</head>
+
+<body>
+  <!--Navbar-->
+  <nav class="navbar navbar-expand-md bg-body-tertiary p-0">
+    <div class="container-fluid pt-1 pb-1">
+      <a class="logoName me-3 mt-1" href="../index.html"><img src="../Assets/Images/logo-no-background.png"
+          alt="logo"></a>
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+        <i class="fas fa-bars fs-6"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Learn</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="development.html">Development</a></li>
+              <li><a class="dropdown-item" href="busniss.html">Business</a></li>
+              <li><a class="dropdown-item" href="opps.html">Artificial Intelligence</a></li>
+              <li><a class="dropdown-item" href="opps.html">Autonomous Systems</a></li>
+              <li><a class="dropdown-item" href="opps.html">Cloud Computing</a></li>
+              <li><a class="dropdown-item" href="opps.html">Data Science</a></li>
+              <li><a class="dropdown-item" href="opps.html">Cybersecurity</a></li>
+              <li><a class="dropdown-item" href="opps.html">Executive Leadership</a></li>
+              <li><a class="dropdown-item" href="opps.html">Product Management</a></li>
+              <hr>
+              <li><a class="dropdown-item" href="#">Another</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#catalog">Catalog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#overview">Overview</a>
+          </li>
+        </ul>
+        <div class="right-section d-flex">
+          <form class="d-flex">
+            <i class="fas fa-search fs-5 d-none d-md-block d-lg-none"></i>
+            <input class="form-control me-sm-3 rounded-pill" type="search" placeholder="Explore our courses">
+            <a class="btn btn-outline-primary me-2" href="Views/loginSignup.html?action=login">Login</a>
+            <a class="btn btn-primary" href="Views/loginSignup.html?action=signup">join for free</a>
+          </form>
+          <div class="profile d-none">
+            <img src="Assets/Images/profile-photo.svg" alt="profile-photo" class="profile-photo">
+            <button class="logOut" type="button">Log Out</button>
+            <div class="name d-flex">
+              <p class="profile-name ps-2 mb-0"></p>
+              <i class="fas fa-chevron-down fs-6 ms-2"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- landing -->
+  <div class="container-fluid pb-md-3 pt-md-5">
+    <div class="categoryLanding p-2">
+      <video autoplay loop muted class="background-video">
+        <source src="../Assets/Videos/background-courses.mp4" type="video/mp4">
+      </video>
+      <div class="container d-flex p-md-0 p-3">
+        <div class="info mt-auto mb-auto text-center text-lg-start pt-2 pt-lg-4">
+          <p class="d-inline">The School Of</p>
+          <h4 class="d-inline">&nbsp;Business</h4>
+          <p class="m-md-4 mt-2">
+            Become a cross-functional force through business training. Today's business objectives
+            are achieved with user research, design, distribution, analysis, and strategy. Whether you're getting
+            started or advancing your career, you'll establish the right foundations with business courses from
+            Udacity's School of Business.</p>
+        </div>
+        <div class="img d-none d-lg-flex">
+          <img src="../Assets/Images/business_courses.jpg" alt="...">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- section-title -->
+  <div class="section-title">
+    <div class="container">
+      <h4 class="mt-4">Courses to get you started</h4>
+      <ul class="choice" style="position: relative;">
+        <li class="li1 active">Most popular</li>
+        <li class="li2">New</li>
+        <li class="li3">Trending</li>
+      </ul>
+    </div>
+  </div>
+  <!--Most-popular-->
+  <div class="Most-popular">
+    <div class="container listofcourses">
+      <div class="row">
+        <div class="col-12 col-sm-6 col-xl-3 p-3 mt-2" id="templateCourseCard">
+          <div class="card course-card">
+            <a href="#" class="courseLink" target="_blank">
+              <button class="fs-6 rounded-pill">Visit Course<i class="fas fa-share-from-square"></i></button>
+              <img src="../Assets/Images/ay-system.webp" class="card-img-top" alt="...">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title">Course Title</h5>
+              <img src="../Assets/Images/profile-photo.svg" class="author-photo" alt="author-profile-photo">
+              <small class="author ms-1">Author Name</small>
+              <p class="headline"></p>
+              <small class="language"></small>
+              <div class="rateinstar mt-3">
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--New-->
+  <div class="New">
+    <div class="container listofcourses">
+      <div class="row">
+        <div class="col-12 col-sm-6 col-xl-3 p-3 mt-2" id="templateCourseCard">
+          <div class="card course-card">
+            <a href="#" class="courseLink" target="_blank">
+              <button class="fs-6 rounded-pill">Visit Course<i class="fas fa-share-from-square"></i></button>
+              <img src="../Assets/Images/ay-system.webp" class="card-img-top" alt="...">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title">Course Title</h5>
+              <img src="../Assets/Images/profile-photo.svg" class="author-photo" alt="author-profile-photo">
+              <small class="author ms-1">Author Name</small>
+              <p class="headline"></p>
+              <small class="language"></small>
+              <div class="rateinstar mt-3">
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Trending-->
+  <div class="Trending">
+    <div class="container listofcourses">
+      <div class="row">
+        <div class="col-12 col-sm-6 col-xl-3 p-3 mt-2" id="templateCourseCard">
+          <div class="card course-card">
+            <a href="#" class="courseLink" target="_blank">
+              <button class="fs-6 rounded-pill">Visit Course<i class="fas fa-share-from-square"></i></button>
+              <img src="../Assets/Images/ay-system.webp" class="card-img-top" alt="...">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title">Course Title</h5>
+              <img src="../Assets/Images/profile-photo.svg" class="author-photo" alt="author-profile-photo">
+              <small class="author ms-1">Author Name</small>
+              <p class="headline"></p>
+              <small class="language"></small>
+              <div class="rateinstar mt-3">
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+                <i class="fa-solid fa-star checked"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="showMore ">
+    <a href="Business-courses.html" class="btn btn-outline-dark">Show More...</a>
+  </div>
+
+  <!-- section-title -->
+  <div class="section-title">
+    <div class="container">
+      <h4 class="mt-4">Featured courses</h4>
+    </div>
+  </div>
+  <!-- Featured courses -->
+  <div class="Featured container">
+    <div id="carouselExampleIndicators" class="carousel slide">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+          class="active bg-dark"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" class="bg-dark"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" class="bg-dark"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class=" test">
+            <a href="#">
+              <img src="../Assets/Images/ay-system.webp" alt="course image">
+              <div class="featured-info">
+                <h4 class="card-title">Course Title</h4>
+                <p class="headline">Course description</p>
+                <small>created by <span class="auther">Author</span></small>
+                <div class="rateinstar">
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <span class="fa fa-star"></span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="prev-icon d-flex"><i class="fas fa-chevron-left"></i></span>
+      </button>
+      <button class="carousel-control-next" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="next-icon d-flex"><i class="fas fa-chevron-right"></i></span>
+      </button>
+    </div>
+  </div>
+  <div class="showMore ">
+    <a href="Business-courses.html" class="btn btn-outline-dark">Show More...</a>
+  </div>
+
+  <!-- section-title -->
+  <div class="section-title">
+    <div class="container">
+      <h4 class="mt-4 ">Popular Business Programs</h4>
+    </div>
+  </div>
+  <!-- Recommended for you -->
+  <div class="container listofcourses">
+    <div class="row">
+      <div class="col-12 col-sm-6 col-xl-3 p-3 mt-2" id="templateCourseCard">
+        <div class="card course-card">
+          <a href="#" class="courseLink" target="_blank">
+            <button class="fs-6 rounded-pill">Visit Course<i class="fas fa-share-from-square"></i></button>
+            <img src="../Assets/Images/ay-system.webp" class="card-img-top" alt="...">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title">Course Title</h5>
+            <img src="../Assets/Images/profile-photo.svg" class="author-photo" alt="author-profile-photo">
+            <small class="author ms-1">Author Name</small>
+            <p class="headline"></p>
+            <small class="language"></small>
+            <div class="rateinstar mt-3">
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="showMore ">
+    <a href="business-courses.html" class="btn btn-outline-dark">Show More...</a>
+  </div>
+
+  <!-- section-title -->
+  <div class="section-title">
+    <div class="container">
+      <h4 class="mt-4">Business Across Industries</h4>
+    </div>
+  </div>
+  <!-- Business in Industries -->
+  <div class="Across-Industries container d-flex">
+    <div>
+      <img src="../Assets/Images/logo1.svg" alt="logo1">
+      <h5>New Hires</h5>
+      <p>New hires gain tech business essentials like digital marketing, agile software development,
+        and UX design.</p>
+      <p>Learn a shared baseline of understanding among your colleagues for quicker innovation and
+        more efficient work.</p>
+    </div>
+    <div>
+      <img src="../Assets/Images/logo2.svg" alt="logo2">
+      <h5>Engineers</h5>
+      <p>Technical employees get opportunities to grow by launching into product management careers,
+        including cutting-edge areas like AI and data product management.</p>
+      <p>Engineering staff can train in Predictive Analytics for Business, a Nanodegree program that
+        teaches how to use technical skills to solve business problems.</p>
+    </div>
+    <div>
+      <img src="../Assets/Images/logo3.svg" alt="logo3">
+      <h5>Leadership</h5>
+      <p>Company leaders can develop connections between departments through a baseline understanding
+        of specialties across teams.</p>
+      <p>Managers and mentors can grow a deeper understanding of employees' day-to-day work,
+        increasing communication and planning for growth.</p>
+    </div>
+  </div>
+
+  <!--footer-->
+  <div class="bg-lightgray">
+    <footer class="p-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">OUR WORLD</h5>
+            <ul class="list-unstyled mb-4">
+              <li><a href="#" class="text-black">About us</a></li>
+              <li><a href="#" class="text-black">Collections</a></li>
+              <li><a href="#" class="text-black">Environmental philosophy</a></li>
+              <li><a href="#" class="text-black">Artist collaborations</a></li>
+            </ul>
+          </div>
+          <hr class="d-md-none">
+          <div class="col-md-6 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">Assistance</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-black">Contact us</a></li>
+              <li><a href="#" class="text-black">Size Guide</a></li>
+              <li><a href="#" class="text-black">Shipping Information</a></li>
+              <li><a href="#" class="text-black">Returns & Exchanges</a></li>
+              <li><a href="#" class="text-black">Payment</a></li>
+            </ul>
+          </div>
+          <hr class="d-md-none">
+          <div class="col-md-12 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">Developers</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-black" title="portfolio">Khaled Mostafa</a></li>
+              <li class="profile-links"><a href="https://www.linkedin.com/in/khaled-mostafa-jr/" target="_blank"><i
+                    class="fab fa-linkedin fs-4"></i></a><a href="https://github.com/khaledrokaya" target="_blank"><i
+                    class="fab fa-github fs-4"></i></a><a href="https://www.facebook.com/khaled.mostafa.jr"
+                  target="_blank"><i class="fab fa-facebook fs-4"></i></a></li>
+              <br>
+              <li><a href="profail_shosha.html" class="text-black" title="portfolio">Mohamed Shosha</a></li>
+              <li class="profile-links"><a href="https://www.linkedin.com/in/mohamed-shosha-994803273/"
+                  target="_blank"><i class="fab fa-linkedin fs-4"></i></a><a href="https://github.com/MOHAMED22SHOSHA"
+                  target="_blank"><i class="fab fa-github fs-4"></i></a><a href="https://www.facebook.com/mo.shosha.7"
+                  target="_blank"><i class="fab fa-facebook fs-4"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      var divElement = document.createElement("div");
+      divElement.id = "g_id_onload";
+      divElement.setAttribute("data-client_id", "832699578913-i41grddh185k0o2dp09cotj898hvq3q4");
+      divElement.setAttribute("data-context", "signin");
+      divElement.setAttribute("data-ux_mode", "popup");
+      divElement.setAttribute("data-callback", "handleCredentialResponse");
+      divElement.setAttribute("data-auto_prompt", "true");
+      if (!localStorage.name)
+        document.body.appendChild(divElement);
+    })();
+    function handleCredentialResponse(response) {
+      let data = jwtDecode(String(response.credential))
+      localStorage['name'] = data.name;
+      localStorage['photo'] = data.picture;
+      localStorage['email'] = data.email;
+      location.reload();
+    }
+  </script>
+  <script src="../Libs/Bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../Libs/FontAwesome/js/all.min.js"></script>
+  <script src="../Libs/Jquery/jquery.min.js"></script>
+  <script src="../Js/services/main.js"></script>
+  <script type="module" src="../Js/controllers/coursesData.js"></script>
+  <script type="module" src="../Js/services/categoryServices.js"></script>
+</body>
+
+</html>

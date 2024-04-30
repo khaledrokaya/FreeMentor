@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
+  <link rel="icon" type="image/x-icon" href="Assets/Images/logo-color.svg">
+  <link href="Libs/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="Libs/FontAwesome/css/all.min.css">
+  <link rel="stylesheet" href="Assets/Fonts/fonts.css">
+  <link href="Style/master.css" rel="stylesheet">
+  <title>FreeMentor</title>
+</head>
+
+<body>
+  <!--Navbar-->
+  <nav class="navbar navbar-expand-md bg-body-tertiary p-0">
+    <div class="container-fluid pt-1 pb-1">
+      <a class="logoName me-3 mt-1" href="index.html"><img src="Assets/Images/logo-no-background.png" alt="logo"></a>
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+        <i class="fas fa-bars fs-6"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Learn</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="Views/development.html">Development</a></li>
+              <li><a class="dropdown-item" href="Views/busniss.html">Business</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Artificial Intelligence</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Autonomous Systems</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Cloud Computing</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Data Science</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Cybersecurity</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Executive Leadership</a></li>
+              <li><a class="dropdown-item" href="Views/opps.html">Product Management</a></li>
+              <hr>
+              <li><a class="dropdown-item" href="#">Another</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#catalog">Catalog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#overview">Overview</a>
+          </li>
+        </ul>
+        <div class="right-section d-flex">
+          <form class="d-flex">
+            <i class="fas fa-search fs-5 d-none d-md-block d-lg-none"></i>
+            <input class="form-control me-sm-3 rounded-pill" type="search" placeholder="Explore our courses">
+            <a class="btn btn-outline-primary me-2" href="Views/loginSignup.html?action=login">Login</a>
+            <a class="btn btn-primary" href="Views/loginSignup.html?action=signup">join for free</a>
+          </form>
+          <div class="profile d-none">
+            <img src="Assets/Images/profile-photo.svg" alt="profile-photo" class="profile-photo">
+            <button class="logOut" type="button">Log Out</button>
+            <div class="name d-flex">
+              <p class="profile-name ps-2 mb-0"></p>
+              <i class="fas fa-chevron-down fs-6 ms-2"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!--landing-->
+  <div class="landing pb-md-3 pt-md-5" id="overview">
+    <div class="container">
+      <div class="text">
+        <p class="text-center text-md-start">Welcome to <span class='websiteName'>&nbsp;FreeMentor</span></p>
+        <p class="text-center text-md-start">your gateway to a world of knowledge without
+          boundaries.Dive into a universe of free courses curated from leading online
+          learning platforms.With our
+          user-friendly interface, learning has never been more accessible.Say goodbye to
+          subscription fees and hello to limitless learning opportunities!</p>
+      </div>
+      <img class="d-none d-md-block" src="Assets/Images/e_learning_course.jpg" alt="landing">
+    </div>
+  </div>
+
+  <!--slide-->
+  <div class="container pb-4 pt-4 slide-container">
+    <div class="slider">
+      <div class="col-6 d-none d-lg-block mt-2">
+        <h2 class="prag-slide p-4">Develop the skills to move fast and stay ahead.</h2>
+      </div>
+      <ul class="slides d-flex ps-5 pe-5">
+        <li><img src="Assets/Images/Outcome-Driven-Learning1.png" alt="slider photo"></li>
+        <h3 class="mt-4 mb-4">Outcome-driven Learning</h3>
+        <p class="mb-4">Achieve skill-based outcomes from our state-of-the-art immersive learning experience
+          platform.</p>
+      </ul>
+    </div>
+  </div>
+
+  <!--lists of our catalog-->
+  <div class="container-fluid p-md-5 pt-3 pb-3 catalog bg-lightgray" id="catalog">
+    <div class="text-center">
+      <h2>Explore our catalog</h2>
+      <p>Developed in partnership with industry leaders from Google , Udemy , Udacity and
+        others.</p>
+    </div>
+    <div class="row container">
+      <div class="col-lg-4 col-sm-6 col-12 mt-2" id="templateCatalogCard">
+        <div class="card">
+          <img src="Assets/Images/AI.webp" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Development</h5>
+            <a href="Views/development.html" class="btn btn-outline-light mb-3 mt-2">Learn More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--list of courses-->
+  <div class="container pt-4 pb-4 listofcourses">
+    <h3>Recommended For You</h3>
+    <div class="row">
+      <div class="col-12 col-sm-6 col-xl-3 p-3 mt-2" id="templateCourseCard">
+        <div class="card course-card">
+          <a href="#" class="courseLink" target="_blank">
+            <button class="fs-6 rounded-pill">Visit Course <i class="fas fa-share-from-square"></i></button>
+            <img src="Assets/Images/ay-system.webp" class="card-img-top" alt="...">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title">Course Title</h5>
+            <img src="Assets/Images/profile-photo.svg" class="author-photo" alt="author-profile-photo">
+            <small class="author ms-1">Author Name</small>
+            <p class="headline"></p>
+            <small class="language"></small>
+            <div class="rateinstar mt-3">
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+              <i class="fa-solid fa-star checked"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--Why Stands Out-->
+  <div class="container-fluid pb-5 pt-3 bg-lightgray why-stand-out p-0 ps-md-4 pe-md-4">
+    <div class="container row free-diff">
+      <div class="col-lg-6 col-sm-12">
+        <h3 class="big-header">Why <span class="websiteName fs-3">FreeMentor</span> Stands Out</h3>
+        <p>Unparalleled Accessibility</p>
+        <p class="prag"> Instant access to a vast array of free courses saves users time and effort, making learning
+          more efficient and convenient.</p>
+        <p>Quality Assurance</p>
+        <p class="prag">Ensuring top-notch quality and relevance by handpicking each course gives users confidence in
+          the reliability and value of the content they're accessing.</p>
+      </div>
+      <div class="col-6 d-none d-lg-flex">
+        <video autoplay loop muted>
+          <source src="Assets/Videos/e-learning.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+  <!--most questions-->
+  <div class="container pt-4 pb-5">
+    <h3 class="big-header pb-3 pt-3">Common questions</h3>
+    <div class="flip1 flip">How do I access the course materials?</div>
+    <div class="panel1 panel ">Once you enroll in the course, you'll receive login credentials to access the course
+      materials on the course platform. Simply log in using your credentials, and you'll find all the course
+      content, including lectures, assignments, and resources</div>
+    <br>
+    <div class="flip2 flip">Can I access the course on my mobile device?
+    </div>
+    <div class="panel2 panel">Yes, most online courses are accessible on mobile devices through dedicated mobile
+      apps or mobile-responsive websites. You can download the course app from the app store or access the course
+      website using your mobile browser.</div>
+    <br>
+    <div class="flip3 flip"> How long do I have access to the course materials?</div>
+    <div class="panel3 panel">Access duration varies depending on the course. Some courses offer lifetime access,
+      while others provide access for a specific period, such as 6 months or 1 year. You can check the course
+      details for information on access duration.</div>
+    <br>
+    <div class="flip4 flip">What if I have questions or need help with the course content?</div>
+    <div class="panel4 panel">Many online courses offer various support options, including discussion forums, email
+      support, or live chat with instructors or course assistants. You can reach out for help whenever you
+      encounter difficulties or have questions about the course material.</div>
+    <br>
+    <div class="flip5 flip">Are there assignments or quizzes in the course?</div>
+    <div class="panel5 panel">Yes, most online courses include assignments, quizzes, or exams to assess your
+      understanding of the material. Completing these assessments is essential for reinforcing learning and
+      tracking your progress throughout the course.</div>
+    <br>
+    <div class="flip6 flip">Can I interact with other students taking the course?</div>
+    <div class="panel6 panel">Many online courses have community features such as discussion forums or social media
+      groups where students can interact, ask questions, and share insights. Engaging with fellow students can
+      enhance your learning experience and provide additional support.</div>
+    <br>
+    <div class="flip7 flip">Is there a certificate of completion offered for the course?</div>
+    <div class="panel7 panel">Yes, upon successfully completing the course requirements, such as watching all
+      lectures and completing assignments or quizzes, you'll typically receive a certificate of completion. This
+      certificate can be a valuable credential to showcase your new skills.</div>
+    <br>
+    <div class="flip8 flip">Can I preview the course content before enrolling?</div>
+    <div class="panel8 panel">Yes, many online courses offer a preview of the course content, such as sample
+      lectures or a course syllabus, to help you decide if the course is right for you. You can explore these
+      previews to get a sense of the course structure and teaching style.</div>
+    <br>
+    <div class="flip9 flip">What if I need to take a break from the course?</div>
+    <div class="panel9 panel">Online courses are often self-paced, allowing you to study according to your schedule.
+      If you need to take a break, you can pause your progress and resume the course later when it's convenient
+      for you. Your progress will be saved, and you can pick up right where you left off.</div>
+    <br>
+    <div class="flip10 flip">Can I get a refund if I'm not satisfied with the course?</div>
+    <div class="panel10 panel">Refund policies vary depending on the course provider. Many platforms offer a
+      money-back guarantee within a certain period after enrollment, allowing you to request a refund if you're
+      not satisfied with the course. Be sure to review the refund policy before enrolling.</div>
+  </div>
+
+  <!--footer-->
+  <div class="bg-lightgray">
+    <footer class="p-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">OUR WORLD</h5>
+            <ul class="list-unstyled mb-4">
+              <li><a href="#" class="text-black">About us</a></li>
+              <li><a href="#" class="text-black">Collections</a></li>
+              <li><a href="#" class="text-black">Environmental philosophy</a></li>
+              <li><a href="#" class="text-black">Artist collaborations</a></li>
+            </ul>
+          </div>
+          <hr class="d-md-none">
+          <div class="col-md-6 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">Assistance</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-black">Contact us</a></li>
+              <li><a href="#" class="text-black">Size Guide</a></li>
+              <li><a href="#" class="text-black">Shipping Information</a></li>
+              <li><a href="#" class="text-black">Returns & Exchanges</a></li>
+              <li><a href="#" class="text-black">Payment</a></li>
+            </ul>
+          </div>
+          <hr class="d-md-none">
+          <div class="col-md-12 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">Developers</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-black" title="portfolio">Khaled Mostafa</a></li>
+              <li class="profile-links"><a href="https://www.linkedin.com/in/khaled-mostafa-jr/" target="_blank"><i
+                    class="fab fa-linkedin fs-4"></i></a><a href="https://github.com/khaledrokaya" target="_blank"><i
+                    class="fab fa-github fs-4"></i></a><a href="https://www.facebook.com/khaled.mostafa.jr"
+                  target="_blank"><i class="fab fa-facebook fs-4"></i></a></li>
+              <br>
+              <li><a href="Views/profail_shosha.html" class="text-black" title="portfolio">Mohamed Shosha</a></li>
+              <li class="profile-links"><a href="https://www.linkedin.com/in/mohamed-shosha-994803273/"
+                  target="_blank"><i class="fab fa-linkedin fs-4"></i></a><a href="https://github.com/MOHAMED22SHOSHA"
+                  target="_blank"><i class="fab fa-github fs-4"></i></a><a href="https://www.facebook.com/mo.shosha.7"
+                  target="_blank"><i class="fab fa-facebook fs-4"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Google_OAuth -->
+  <script>
+    (function () {
+      var divElement = document.createElement("div");
+      divElement.id = "g_id_onload";
+      divElement.setAttribute("data-client_id", "832699578913-i41grddh185k0o2dp09cotj898hvq3q4");
+      divElement.setAttribute("data-context", "signin");
+      divElement.setAttribute("data-ux_mode", "popup");
+      divElement.setAttribute("data-callback", "handleCredentialResponse");
+      divElement.setAttribute("data-auto_prompt", "true");
+      if (!localStorage.name)
+        document.body.appendChild(divElement);
+    })();
+    function handleCredentialResponse(response) {
+      let data = jwtDecode(String(response.credential))
+      localStorage['name'] = data.name;
+      localStorage['photo'] = data.picture;
+      localStorage['email'] = data.email;
+      location.reload();
+    }
+  </script>
+  <script src="Libs/FontAwesome/js/all.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="Libs/Bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="Js/controllers/homeData.js"></script>
+  <script src="Js/services/main.js"></script>
+  <script type="module" src="Js/services/homeServices.js"></script>
+</body>
+
+</html>

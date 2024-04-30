@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
+  <link rel="icon" href="../Assets/Images/logo-color.svg" type="image/x-icon">
+  <link rel="stylesheet" href="../Libs/Bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../Libs/FontAwesome/css/all.min.css">
+  <link rel="stylesheet" href="../Assets/Fonts/fonts.css">
+  <link rel="stylesheet" href="../Style/loginSignup.css">
+  <title>FreeMentor</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="form-container sign-up">
+      <h1>Create Account</h1>
+      <div class="icons">
+        <div id="g_id_onload" data-client_id="832699578913-i41grddh185k0o2dp09cotj898hvq3q4" data-context="signin"
+          data-ux_mode="popup" data-callback="handleCredentialResponse" data-auto_prompt="false">
+        </div>
+
+        <div class="g_id_signin" data-type="standard" data-shape="pill" data-theme="filled_blue"
+          data-text="continue_with" data-size="large" data-logo_alignment="left" data-callback="handleCredentialResponse">
+        </div>
+      </div>
+      <div class="message">
+        <i class="fas fa-circle-exclamation error_signup"></i>
+        <div id="message_signup"></div>
+      </div>
+      <form id="SignUp">
+        <input id="name_signup" name="name" placeholder="Name" required type="text">
+        <input id="email_signup" name="email" placeholder="Email" required type="email">
+        <input id="password_signup" name="password" placeholder="Password" required type="password">
+        <button type="submit">Sign Up</button>
+      </form>
+    </div>
+    <div class="form-container sign-in">
+      <h1>Sign In</h1>
+      <div class="icons">
+        <div id="g_id_onload" data-client_id="832699578913-i41grddh185k0o2dp09cotj898hvq3q4" data-context="signin"
+          data-ux_mode="popup" data-callback="handleCredentialResponse" data-auto_prompt="false">
+        </div>
+
+        <div class="g_id_signin" data-type="standard" data-shape="pill" data-theme="filled_blue"
+          data-text="continue_with" data-size="large" data-logo_alignment="left" data-callback="handleCredentialResponse">
+        </div>
+      </div>
+      <div class="message">
+        <i class="fas fa-circle-exclamation error_login"></i>
+        <div id="message_login"></div>
+      </div>
+      <form id="LogIn">
+        <input type="email" placeholder="Email" name="email" id="email_login" required>
+        <input type="password" placeholder="Password" name="password" id="password_login" required>
+        <a class="forgot-ms" href="#">Forget Your Password?</a>
+        <button type="submit">Sign In</button>
+      </form>
+    </div>
+    <div class="toggle-container">
+      <div class="toggle-panel">
+        <h1>Welcome Back!</h1>
+        <p>Enter your personal details to use all of site features</p>
+        <button>Sign Up</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Google_OAuth -->
+  <script>
+    function handleCredentialResponse(response) {
+      let data = jwtDecode(String(response.credential))
+      localStorage['name'] = data.name;
+      localStorage['photo'] = data.picture;
+      localStorage['email'] = data.email;
+      window.history.back();
+    }
+  </script>
+  <script src="../Libs/FontAwesome/js/all.min.js"></script>
+  <script src="../Libs/Bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="../Js/controllers/LoginData.js"></script>
+  <script type="module" src="../Js/services/loginTransition.js"></script>
+</body>

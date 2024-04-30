@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
+  <link href="../Libs/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="shortcut icon" href="../Assets/Images/logo-color.svg" type="image/x-icon">
+  <link rel="stylesheet" href="../Libs/FontAwesome/css/all.min.css">
+  <link href="../Style/master.css" rel="stylesheet">
+  <title>Development</title>
+</head>
+
+<body>
+  <!--Navbar-->
+  <nav class="navbar navbar-expand-md bg-body-tertiary p-0">
+    <div class="container-fluid pt-1 pb-1">
+      <a class="logoName me-3 mt-1" href="../index.html"><img src="../Assets/Images/logo-no-background.png"
+          alt="logo"></a>
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+        <i class="fas fa-bars fs-6"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">Learn</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="development.html">Development</a></li>
+              <li><a class="dropdown-item" href="busniss.html">Business</a></li>
+              <li><a class="dropdown-item" href="opps.html">Artificial Intelligence</a></li>
+              <li><a class="dropdown-item" href="opps.html">Autonomous Systems</a></li>
+              <li><a class="dropdown-item" href="opps.html">Cloud Computing</a></li>
+              <li><a class="dropdown-item" href="opps.html">Data Science</a></li>
+              <li><a class="dropdown-item" href="opps.html">Cybersecurity</a></li>
+              <li><a class="dropdown-item" href="opps.html">Executive Leadership</a></li>
+              <li><a class="dropdown-item" href="opps.html">Product Management</a></li>
+              <hr>
+              <li><a class="dropdown-item" href="#">Another</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#catalog">Catalog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#overview">Overview</a>
+          </li>
+        </ul>
+        <div class="right-section d-flex">
+          <form class="d-flex">
+            <i class="fas fa-search fs-5 d-none d-md-block d-lg-none"></i>
+            <input class="form-control me-sm-3 rounded-pill" type="search" placeholder="Explore our courses">
+            <a class="btn btn-outline-primary me-2" href="Views/loginSignup.html?action=login">Login</a>
+            <a class="btn btn-primary" href="Views/loginSignup.html?action=signup">join for free</a>
+          </form>
+          <div class="profile d-none">
+            <img src="Assets/Images/profile-photo.svg" alt="profile-photo" class="profile-photo">
+            <button class="logOut" type="button">Log Out</button>
+            <div class="name d-flex">
+              <p class="profile-name ps-2 mb-0"></p>
+              <i class="fas fa-chevron-down fs-6 ms-2"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container sortby mt-5 pt-4">
+    <h4>All Free Development Programs</h4>
+    <li class="nav-item menuo-sort">
+      <a class="nav-link dropdown-toggle p-normal" href="#" role="button" data-bs-toggle="dropdown"
+        aria-expanded="false">
+        Sort by...
+      </a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item sort ">Most Popular </a></li>
+        <li><a class="dropdown-item sort ">Highest Rated </a></li>
+        <li><a class="dropdown-item sort ">Recently Updated </a></li>
+      </ul>
+    </li>
+    <li class="btn btn-outline-dark d-block d-lg-none filters"><i class="fas fa-filter"></i> Filter</li>
+  </div>
+  <!-- body container -->
+  <div class="container coursesContainer p-0 ps-lg-4 pe-lg-4 d-flex">
+    <!-- filter container -->
+    <div class="filter-container">
+      <div class="left-frame">
+        <div class="sort-item">
+          <div class="item3 item">Subcategory</div>
+          <div class="sitem3 sitem">
+            <ul>
+              <ul>
+                <li>
+                  <input type="radio" name="subCategory" id="Web+Development">
+                  <label for="Web+Development">Web Development</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Programming+Languages">
+                  <label for="Programming+Languages">Programming Languages</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Game+Development">
+                  <label for="Game+Development">Game Development</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Data+Science">
+                  <label for="Data+Science">Data Science</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Mobile+Development">
+                  <label for="Mobile+Development">Mobile Development</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Software+Development+Tools">
+                  <label for="Software+Development+Tools">Software Development Tools</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="No-Code+Development">
+                  <label for="No-Code+Development">No-Code Development</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Software+Engineering">
+                  <label for="Software+Engineering">Software Engineering</label>
+                </li>
+                <li>
+                  <input type="radio" name="subCategory" id="Software+Testing">
+                  <label for="Software+Testing">Software Testing</label>
+                </li>
+              </ul>
+
+            </ul>
+          </div>
+        </div>
+        <hr>
+
+        <div class="sort-item">
+          <div class="item4 item">Level</div>
+          <div class="sitem4 sitem">
+            <ul>
+              <li>
+                <input type="radio" id="beginner" name="instructional_level">
+                <label for="beginner">Beginner</label>
+              </li>
+              <li>
+                <input type="radio" id="intermediate" name="instructional_level">
+                <label for="intermediate">Intermediate</label>
+              </li>
+              <li>
+                <input type="radio" id="expert" name="instructional_level">
+                <label for="expert">expert</label>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <hr>
+
+        <div class="sort-item">
+          <div class="item5 item">Duration</div>
+          <div class="sitem5 sitem">
+            <ul>
+              <li>
+                <input type="radio" id="short" name="duration">
+                <label for="short">Short</label>
+              </li>
+              <li>
+                <input type="radio" id="medium" name="duration">
+                <label for="medium">Medium</label>
+              </li>
+              <li>
+                <input type="radio" id="long" name="duration">
+                <label for="long">Long</label>
+              </li>
+              <li>
+                <input type="radio" id="extraLong" name="duration">
+                <label for="extraLong">ExtraLong</label>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <hr>
+        <button class="btn btn-primary rounded-pill mt-4 pe-5 ps-5 showResults">Show Results</button>
+        <button class="btn btn-outline-dark rounded-pill mt-2 pe-5 ps-5 resetFilters">Reset Filters</button>
+      </div>
+      <button class="closeFilters"><i class="fas fa-xmark"></i></button>
+    </div>
+
+    <!-- courses container -->
+    <div class="container-fluid listofcourses m-4 mb-4 d-flex">
+      <div class="row">
+        <div id="templateCourseCard">
+          <a href="#" class="courseLink" target="_blank">
+            <div class="card course-card">
+              <div class="courseImage">
+                <img src="../Assets/Images/ay-system.webp" class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Course Title</h5>
+                <img src="../Assets/Images/profile-photo.svg" class="author-photo" alt="author-photo">
+                <small class="author">Author Name</small>
+                <p class="headline"></p>
+                <small class="language"></small>
+                <div class="rateinstar mt-3">
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                  <i class="fa-solid fa-star checked"></i>
+                </div>
+              </div>
+            </div>
+          </a>
+          <hr>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--footer-->
+  <div class="bg-lightgray">
+    <footer class="p-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">OUR WORLD</h5>
+            <ul class="list-unstyled mb-4">
+              <li><a href="#" class="text-black">About us</a></li>
+              <li><a href="#" class="text-black">Collections</a></li>
+              <li><a href="#" class="text-black">Environmental philosophy</a></li>
+              <li><a href="#" class="text-black">Artist collaborations</a></li>
+            </ul>
+          </div>
+          <hr class="d-md-none">
+          <div class="col-md-6 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">Assistance</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-black">Contact us</a></li>
+              <li><a href="#" class="text-black">Size Guide</a></li>
+              <li><a href="#" class="text-black">Shipping Information</a></li>
+              <li><a href="#" class="text-black">Returns & Exchanges</a></li>
+              <li><a href="#" class="text-black">Payment</a></li>
+            </ul>
+          </div>
+          <hr class="d-md-none">
+          <div class="col-md-12 col-lg-4 col-12 text-center text-lg-start">
+            <h5 class="text-uppercase mb-3">Developers</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-black" title="portfolio">Khaled Mostafa</a></li>
+              <li class="profile-links"><a href="https://www.linkedin.com/in/khaled-mostafa-jr/" target="_blank"><i
+                    class="fab fa-linkedin fs-4"></i></a><a href="https://github.com/khaledrokaya" target="_blank"><i
+                    class="fab fa-github fs-4"></i></a><a href="https://www.facebook.com/khaled.mostafa.jr"
+                  target="_blank"><i class="fab fa-facebook fs-4"></i></a></li>
+              <br>
+              <li><a href="profail_shosha.html" class="text-black" title="portfolio">Mohamed Shosha</a></li>
+              <li class="profile-links"><a href="https://www.linkedin.com/in/mohamed-shosha-994803273/"
+                  target="_blank"><i class="fab fa-linkedin fs-4"></i></a><a href="https://github.com/MOHAMED22SHOSHA"
+                  target="_blank"><i class="fab fa-github fs-4"></i></a><a href="https://www.facebook.com/mo.shosha.7"
+                  target="_blank"><i class="fab fa-facebook fs-4"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      var divElement = document.createElement("div");
+      divElement.id = "g_id_onload";
+      divElement.setAttribute("data-client_id", "832699578913-i41grddh185k0o2dp09cotj898hvq3q4");
+      divElement.setAttribute("data-context", "signin");
+      divElement.setAttribute("data-ux_mode", "popup");
+      divElement.setAttribute("data-callback", "handleCredentialResponse");
+      divElement.setAttribute("data-auto_prompt", "true");
+      if (!localStorage.name)
+        document.body.appendChild(divElement);
+    })();
+    function handleCredentialResponse(response) {
+      let data = jwtDecode(String(response.credential))
+      localStorage['name'] = data.name;
+      localStorage['photo'] = data.picture;
+      localStorage['email'] = data.email;
+      location.reload();
+    }
+  </script>
+  <script src="../Libs/Jquery/jquery.min.js"></script>
+  <script src="../Libs/Bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../Libs/FontAwesome/js/all.min.js"></script>
+  <script src="../Js/services/main.js"></script>
+  <script type="module" src="../Js/controllers/coursesData.js"></script>
+  <script type="module" src="../Js/services/coursesServices.js"></script>
+</body>
+
+</html>
