@@ -369,7 +369,7 @@ footer .text-black:hover { font-weight: 500; }
 .Across-Industries p { margin-top: 5px; line-height: 1.5; font-weight: normal; }
 @media (max-width: 900px) {
     .Across-Industries { flex-direction: column; margin-top: 40px; }
-    .Across-Industries>div { max-width: 100%; text-align: center; }
+    .Across-Industries>div { max-width: 100%; text-align: center; margin-top: 20px; }
 }
 
 /* Courses Container */
