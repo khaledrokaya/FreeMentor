@@ -7,7 +7,7 @@
     "is_paid": false,
     "price": "Free",
     "price_detail": null,
-    "price_serve_tracking_id": "94aJH57ISWS469wrsosnKQ",
+    "price_serve_tracking_id": "yTZ75ztRSBGOQqpGxw-DJA",
     "visible_instructors": [
       {
         "_class": "user",
@@ -52,7 +52,7 @@
     "is_paid": false,
     "price": "Free",
     "price_detail": null,
-    "price_serve_tracking_id": "WN17-Lw1QmKF-rND0X9FYQ",
+    "price_serve_tracking_id": "5hKPKO_bR5WkW58_pDEdkg",
     "visible_instructors": [
       {
         "_class": "user",
@@ -91,31 +91,31 @@
   },
   {
     "_class": "course",
-    "id": 5741978,
-    "title": "Master Gemini AI - Google Bard Prompt Engineering Bootcamp",
-    "url": "/course/master-gemini-ai-google-bard-prompt-engineering-bootcamp/",
+    "id": 4077322,
+    "title": "How to Create an Online Course: The Official Udemy Course",
+    "url": "/course/official-udemy-create-course/",
     "is_paid": false,
     "price": "Free",
     "price_detail": null,
-    "price_serve_tracking_id": "KMkUR5MEREy9cW0Q-YJyFw",
+    "price_serve_tracking_id": "TOgrtBULQei4tnSV5h6HNw",
     "visible_instructors": [
       {
         "_class": "user",
-        "title": "Jose Portilla",
-        "name": "Jose",
-        "display_name": "Jose Portilla",
-        "job_title": "Head of Data Science at Pierian Training",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
-        "initials": "JP",
-        "url": "/user/joseportilla/"
+        "title": "Udemy Instructor Team",
+        "name": "Udemy",
+        "display_name": "Udemy Instructor Team",
+        "job_title": "Official Udemy Instructor Account",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/137060_54c1_14.jpg",
+        "image_100x100": "https://img-c.udemycdn.com/user/100x100/137060_54c1_14.jpg",
+        "initials": "UI",
+        "url": "/user/udemymanager/"
       }
     ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5741978_bb2b_2.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5741978_bb2b_2.jpg",
+    "image_125_H": "https://img-c.udemycdn.com/course/125_H/4077322_a979_4.jpg",
+    "image_240x135": "https://img-c.udemycdn.com/course/240x135/4077322_a979_4.jpg",
     "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5741978_bb2b_2.jpg",
-    "published_title": "master-gemini-ai-google-bard-prompt-engineering-bootcamp",
+    "image_480x270": "https://img-c.udemycdn.com/course/480x270/4077322_a979_4.jpg",
+    "published_title": "official-udemy-create-course",
     "tracking_id": "",
     "locale": {
       "_class": "locale",
@@ -131,7 +131,7 @@
     "curriculum_lectures": [],
     "order_in_results": null,
     "curriculum_items": [],
-    "headline": "Learn the power of Google's Gemini Models with Bard and get the latest skills in AI!",
+    "headline": "Use our recommended best practices to plan, produce, and publish a well-designed, high quality Udemy course",
     "instructor_name": null
   },
   {
@@ -142,7 +142,7 @@
     "is_paid": false,
     "price": "Free",
     "price_detail": null,
-    "price_serve_tracking_id": "hH0nEDFyRLyLgQYrWayIVQ",
+    "price_serve_tracking_id": "FXJx7cxiTx2hv4IzUHqKcg",
     "visible_instructors": [
       {
         "_class": "user",
