@@ -5,7 +5,7 @@ We believe knowledge should be accessible to all. That's why every single course
 
 **Unlock Your Learning Potential:**
 
-1. Head over to FreeMentor at [https://www.frontendmentor.com](https://freementor.onrender.com)
+1. Head over to FreeMentor at [https://freementor.onrender.com](https://freementor.onrender.com)
 2. Browse through our extensive course library and find the perfect fit for your needs.
 3. Hover on the course to discover its details.
 4. Click the link to go to course page.
