@@ -8,11 +8,12 @@ const app = express();
 app.use(bodyParser.json());
 
 const dbConfig = {
-  host: 'localhost',
-  user: 'root',
-  password: '282004',
-  database: 'freementor'
+  host: 'bgtxdgwdkjspr10mgzjx-mysql.services.clever-cloud.com',
+  user: 'usbuexqp4neirm6j',
+  password: 'LoCjEip1jPp01eyRuB1w',
+  database: 'bgtxdgwdkjspr10mgzjx'
 };
+
 const connection = mysql.createConnection(dbConfig);
 
 async function LogIn(loginData) {

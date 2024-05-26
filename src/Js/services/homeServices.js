@@ -14,13 +14,13 @@ window.onload = () => {
   let catalogContainer = document.querySelector('#catalog .row');
   let otherCardsData = [
     { title: "Business", img: "Assets/Images/ay-system.webp", link: "Views/busniss.html" },
-    { title: "Cloud Computing", img: "Assets/Images/cloud.webp", link: "Views/oops.html" },
-    { title: "Cybersecurity", img: "Assets/Images/cyber.webp", link: "Views/oops.html" },
-    { title: "Data Science", img: "Assets/Images/data-sience.webp", link: "Views/oops.html" },
-    { title: "Executive Leadership", img: "Assets/Images/leadership.webp", link: "Views/oops.html" },
-    { title: "Product Management", img: "Assets/Images/proudect.webp", link: "Views/oops.html" },
-    { title: "Artificial Intelligence", img: "Assets/Images/programin.webp", link: "Views/oops.html" },
-    { title: "Information Technology", img: "Assets/Images/data-sience.webp", link: "Views/oops.html" },
+    { title: "Cloud Computing", img: "Assets/Images/cloud.webp", link: "Views/opps.html" },
+    { title: "Cybersecurity", img: "Assets/Images/cyber.webp", link: "Views/opps.html" },
+    { title: "Data Science", img: "Assets/Images/data-sience.webp", link: "Views/opps.html" },
+    { title: "Executive Leadership", img: "Assets/Images/leadership.webp", link: "Views/opps.html" },
+    { title: "Product Management", img: "Assets/Images/proudect.webp", link: "Views/opps.html" },
+    { title: "Artificial Intelligence", img: "Assets/Images/programin.webp", link: "Views/opps.html" },
+    { title: "Information Technology", img: "Assets/Images/data-sience.webp", link: "Views/opps.html" },
   ];
   otherCardsData.forEach(function (data) {
     let newCard = originalCard.cloneNode(true);
