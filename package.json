@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cd src && cd Js && node index.js",
-    "build": "npm install && cd src && cd Js && node app.js",
+    "start": "cd src && cd Js && node App.js",
+    "build": "npm install && cd src && cd Js && node App.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
