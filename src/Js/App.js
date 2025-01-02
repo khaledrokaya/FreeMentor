@@ -16,6 +16,28 @@ const dbConfig = {
 
 const connection = mysql.createConnection(dbConfig);
 
+async function getAccessToken() {
+  const tokenUrl = 'https://api.coursera.com/oauth2/client_credentials/token';
+  const body = new URLSearchParams({
+    grant_type: 'client_credentials',
+    client_id: "A9qdGdnf3iVz78jKKqpCFUOrnSJJTthNUuGUbmAlK912aUVQ",
+    client_secret: "ZLM3iY2xK3MrvNW7h7PaLW9SYGLTlsI8Q91BN8QG7br7jM0Pu9Knqb2zinJyu0Wn",
+  });
+
+  const response = await fetch(tokenUrl, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body,
+  });
+
+  if (!response.ok) {
+    throw new Error('Failed to obtain access token');
+  }
+
+  const data = await response.json();
+  return data.access_token;
+}
+
 async function LogIn(loginData) {
   return new Promise((resolve, reject) => {
     connection.query(
@@ -68,41 +90,64 @@ async function signUp(newUser) {
   });
 }
 
-async function getCourses({ pageNum, pageSize, pageName, category, subCategory, duration, instructionalLevel }) {
-  return new Promise((resolve, reject) => {
-    let link = `https://www.udemy.com/api-2.0/courses/?page=${pageNum}&page_size=${pageSize}&price=price-free`;
-    link += (category !== undefined) ? `&category=${category}` : '';
-    link += (subCategory !== undefined) ? `&subcategory=${subCategory}` : '';
-    link += (duration !== undefined) ? `&duration=${duration}` : '';
-    link += (instructionalLevel !== undefined) ? `&instructional_level=${instructionalLevel}` : '';
-    fetch(link, {
+async function getCourseraCourses({ pageNum, pageSize, query = "", pageName }) {
+  try {
+    const accessToken = await getAccessToken();
+    const courseUrl = `https://api.coursera.org/api/courses.v1?${query !== "" ? `q=search&query=${query}&` : ""}limit=${pageSize}&fields=slug,name,description,photoUrl,instructorIds`;
+    const courseResponse = await fetch(courseUrl, {
       method: 'GET',
       headers: {
-        'Accept': 'application/json, text/plain, */*',
-        'Authorization': 'Basic M2J2NGNOMndoUWVHa284RHFWS0VZb1R1OGpzOXBqUHBEcU15RkxkMzpRQnJSQUZkbzc1U1RzbWpYbUdkZlJxTU1aVDlCaTBmQUlNVERYT1huN1ZuZVJrQW9PbWk4Wjh0bHozYmdYbXNEVWJyR1NOU3dOeGJVMVpKYnF4cm9YcFhvNzhPWXBLVzNkV1pYS0JtTEpSbmJUNVphaFRTelNCWDliTHZLc2lnbw==',
-        'Content-Type': 'application/json'
+        'Authorization': `Bearer ${accessToken}`,
+        'Accept': 'application/json',
       },
-      mode: 'no-cors'
-    })
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Failed to fetch course list');
-        }
-        return response.json();
-      })
-      .then(data => {
-        fs.writeFile(`src/Data/${pageName}Courses.json`, JSON.stringify(data.results, null, 2), 'utf8', (err) => {
-          if (err) {
-            reject(err);
-          } else {
-            resolve(data.results);
-          }
-        });
-      })
-      .catch(error => {
-        return error;
-      });
-  });
+    });
+    if (!courseResponse.ok) throw new Error('Failed to fetch Coursera courses');
+    const courseData = await courseResponse.json();
+    const instructorIds = new Set(courseData.elements.flatMap(course => course.instructorIds));
+    if (instructorIds.size === 0) {
+      return courseData.elements.map(course => ({
+        url: course.slug,
+        title: course.name,
+        headline: course.description,
+        coursePhoto: course.photoUrl,
+        locale: { title: course.language },
+        visible_instructors: [{
+          display_name: "",
+          image_100x100: ""
+        }],
+      }));
+    }
+    const instructorUrl = `https://api.coursera.org/api/instructors.v1?ids=${[...instructorIds].join(',')}&fields=fullName,photo`;
+    const instructorResponse = await fetch(instructorUrl, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${accessToken}`,
+        'Accept': 'application/json',
+      },
+    });
+    if (!instructorResponse.ok) throw new Error('Failed to fetch Coursera instructors');
+    let instructorData = await instructorResponse.json();
+    instructorData = instructorData.elements;
+    const mergedCourses = courseData.elements.map(course => ({
+      url: course.slug,
+      title: course.name,
+      headline: course.description,
+      image_480x270: course.photoUrl,
+      locale: { title: course.language },
+      visible_instructors: instructorData.map(i => ({
+        display_name: i.fullName,
+        image_100x100: i.photo
+      })),
+    }));
+    if (pageName) {
+      fs.writeFileSync(`src/Data/${pageName}Courses.json`, JSON.stringify(mergedCourses, null, 2), 'utf8');
+    }
+
+    return mergedCourses;
+  } catch (error) {
+    console.error('Error fetching Coursera courses:', error);
+    throw error;
+  }
 }
 
 app.post('/login', async (req, res) => {
@@ -118,10 +163,15 @@ app.post('/signup', async (req, res) => {
 });
 
 app.post('/getCourses', async (req, res) => {
-  const coursesData = req.body;
-  let result = await getCourses(coursesData);
-  res.json(result);
+  const { pageNum, pageSize, query, pageName } = req.body;
+  try {
+    const courses = await getCourseraCourses({ pageNum, pageSize, query, pageName });
+    res.json(courses);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
 });
+
 
 app.use(express.static(path.join(__dirname, '../')));
 app.use(express.static(path.join(__dirname, '../Views')));

@@ -1,474 +1,68 @@
 [
   {
-    "_class": "course",
-    "id": 5798868,
-    "title": "Google Gemini AI with Python API - Quick Start",
-    "url": "/course/google-gemini-ai-with-python-api/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "z52ABqQ8Qxy9mQFCyLckmw",
+    "url": "sustainable-infrastructure-development-agenda",
+    "title": "Sustainable Infrastructure on the Development Agenda",
+    "headline": "In this course, you will delve into the concept and importance of sustainable infrastructure, and understand its crucial role in the economic recovery of the region. Additionally, you will discover how these projects can contribute to achieving the goals of the Paris Agreement and the Sustainable Development Goals.\n\nWe will help you appreciate the importance of a shared vision of sustainable infrastructure throughout the entire project lifecycle, providing you with the tools to face global challenges. We will explore the roles that the private sector can play in the development of sustainable infrastructure projects, and show you the economic and social benefits of incorporating this perspective into your projects.\n\nMoreover, we will introduce you to the pillars of sustainability within the integrated framework that enables the delivery of higher quality infrastructure, and help you understand the differences between this framework and the social and environmental safeguards in projects.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f5/5bb2fd36d848899d01bcd2461502b3/1.-Imagen-del-logotipo-1200x1200.png",
+    "locale": {},
     "visible_instructors": [
       {
-        "_class": "user",
-        "title": "Jose Portilla",
-        "name": "Jose",
-        "display_name": "Jose Portilla",
-        "job_title": "Head of Data Science at Pierian Training",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
-        "initials": "JP",
-        "url": "/user/joseportilla/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/5798868_61e3_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/5798868_61e3_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/5798868_61e3_2.jpg",
-    "published_title": "google-gemini-ai-with-python-api",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn how to leverage Google's powerful new Gemini AI model in just two hours!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 473160,
-    "title": "Web Design for Web Developers: Build Beautiful Websites!",
-    "url": "/course/web-design-secrets/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "ffaolFFXTsmNvwabIsdQFg",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Jonas Schmedtmann",
-        "name": "Jonas",
-        "display_name": "Jonas Schmedtmann",
-        "job_title": "Web Developer, Designer, and Teacher",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/7799204_2091_5.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/7799204_2091_5.jpg",
-        "initials": "JS",
-        "url": "/user/jonasschmedtmann/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/473160_d929_3.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/473160_d929_3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/473160_d929_3.jpg",
-    "published_title": "web-design-secrets",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn web design in 1 hour with 25+ simple-to-use rules and guidelines — tons of amazing web design resources included!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 433798,
-    "title": "Introduction To Python Programming",
-    "url": "/course/pythonforbeginnersintro/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "jWjdrlnPQ3OdTCJLAR9k0w",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Avinash Jain",
-        "name": "Avinash",
-        "display_name": "Avinash Jain",
-        "job_title": "Taught 1 million students how to code",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/10260436_946b_6.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/10260436_946b_6.jpg",
-        "initials": "AJ",
-        "url": "/user/avinashjain5/"
+        "display_name": "Alfred Hans Grunwaldt",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/da/acd42f29c146d9af88ab599b4f73d8/Alfred_Grunwaldt_instructor.jpg"
       },
       {
-        "_class": "user",
-        "title": "The Codex",
-        "name": "The",
-        "display_name": "The Codex",
-        "job_title": "Teaching Python through Projects",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/52310762_220a.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/52310762_220a.jpg",
-        "initials": "TC",
-        "url": "/user/thecodex/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/433798_1de9_4.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/433798_1de9_4.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/433798_1de9_4.jpg",
-    "published_title": "pythonforbeginnersintro",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "A Quick and Easy Intro to Python Programming",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 24823,
-    "title": "Java Tutorial for Complete Beginners",
-    "url": "/course/java-tutorial/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "hRKJgo4fRT6tr2wjUdjFtQ",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "John Purcell",
-        "name": "John",
-        "display_name": "John Purcell",
-        "job_title": "Software Development Trainer",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/219513_a344_6.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/219513_a344_6.jpg",
-        "initials": "JP",
-        "url": "/user/johnpurcell/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/24823_963e_14.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/24823_963e_14.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/24823_963e_14.jpg",
-    "published_title": "java-tutorial",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_GB",
-      "title": "English (UK)",
-      "english_title": "English (UK)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn to program using the Java programming language",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5512420,
-    "title": "ChatGPT Quick Guide - Prompt Engineering, Plugins, and more!",
-    "url": "/course/chatgpt-quick-guide-prompt-engineering-plugins-and-more/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "akgkdrwdTKyn9csLcXoDJQ",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Jose Portilla",
-        "name": "Jose",
-        "display_name": "Jose Portilla",
-        "job_title": "Head of Data Science at Pierian Training",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
-        "initials": "JP",
-        "url": "/user/joseportilla/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/5512420_3119_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/5512420_3119_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/5512420_3119_2.jpg",
-    "published_title": "chatgpt-quick-guide-prompt-engineering-plugins-and-more",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "In just 2 hours supercharge your ChatGPT skills with plugins, the code interpreter, and prompt engineering!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5741978,
-    "title": "Master Gemini AI - Google Bard Prompt Engineering Bootcamp",
-    "url": "/course/master-gemini-ai-google-bard-prompt-engineering-bootcamp/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "nry50LwoT8qPXrZ13pOFPQ",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Jose Portilla",
-        "name": "Jose",
-        "display_name": "Jose Portilla",
-        "job_title": "Head of Data Science at Pierian Training",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/9685726_67e7_4.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/9685726_67e7_4.jpg",
-        "initials": "JP",
-        "url": "/user/joseportilla/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/5741978_bb2b_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/5741978_bb2b_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/5741978_bb2b_2.jpg",
-    "published_title": "master-gemini-ai-google-bard-prompt-engineering-bootcamp",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn the power of Google's Gemini Models with Bard and get the latest skills in AI!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5289502,
-    "title": "Basics of C# and Unity for Complete Beginners - Part 1",
-    "url": "/course/free-part1-alexdev/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "jJnBmUwST8O1ivDkFJuk0A",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Alex Dev",
-        "name": "Alex",
-        "display_name": "Alex Dev",
-        "job_title": "Game Development Instructor and YouTuber",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/99693024_06fa_2.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/99693024_06fa_2.jpg",
-        "initials": "AD",
-        "url": "/user/alex-13394/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/5289502_c54a_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/5289502_c54a_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/5289502_c54a_2.jpg",
-    "published_title": "free-part1-alexdev",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn How to Make a Simple 2D Game in Unity",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 3060786,
-    "title": "Deep Learning Prerequisites: The Numpy Stack in Python V2",
-    "url": "/course/numpy-python/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "eSTlvjBgR-2HqpI_Uf0i4w",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Lazy Programmer Team",
-        "name": "Lazy Programmer",
-        "display_name": "Lazy Programmer Team",
-        "job_title": "Artificial Intelligence and Machine Learning Engineer",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/75391750_5441.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/75391750_5441.jpg",
-        "initials": "LT",
-        "url": "/user/lazy-programmer-team/"
+        "display_name": "Gema Sacristán",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ac/56d09f2295452493f8e49d6ef341bf/Gema_Sacristan_instructor.jpg"
       },
       {
-        "_class": "user",
-        "title": "Lazy Programmer Inc.",
-        "name": "Lazy Programmer",
-        "display_name": "Lazy Programmer Inc.",
-        "job_title": "Artificial intelligence and machine learning engineer",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/14266988_a969_10.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/14266988_a969_10.jpg",
-        "initials": "LI",
-        "url": "/user/lazy-programmer/"
+        "display_name": "Reza Moradinezhad",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/26/bdc3fbb6bc4d3da3ba79329787bcb4/Reza-Picture.jpg"
+      },
+      {
+        "display_name": "Tomás Serebrisky",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c2/6a4d34824f4e9ab3042815c3adfcd3/Tomas_Serebrisky_instructores.jpg"
+      },
+      {
+        "display_name": "María Cecilia Ramirez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8f/2e249e4d9148238859ee3f969af5e3/Maria_Cecilia_Ramirez_instructor.jpg"
+      },
+      {
+        "display_name": "Soheil Haddadi",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/83/e48a3f7ab34248b69db41f7747b256/Soheil-Profile-picture.jpg"
       }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/3060786_438f_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/3060786_438f_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/3060786_438f_2.jpg",
-    "published_title": "numpy-python",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Numpy, Scipy, Pandas, and Matplotlib: prep for deep learning, machine learning, and artificial intelligence",
-    "instructor_name": null
+    ]
   },
   {
-    "_class": "course",
-    "id": 1731774,
-    "title": "Git & GitHub Crash Course: Create a Repository From Scratch!",
-    "url": "/course/git-and-github-crash-course-creating-a-repository-from-scratch/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "9QM_orxUQOG4zvQtpDpZWA",
+    "url": "langchain-application-development-essentials",
+    "title": "LangChain: Application Development Essentials",
+    "headline": "This course unravels the intricacies of LangChain, a versatile framework for creating applications with language models. As AI and natural language processing become more integral to technological advancements, mastering LangChain is essential for modern developers. This course navigates through the basics of LangChain, background and context, practical uses in today's tech landscape, and prospects. Real-world examples illuminate how LangChain empowers developers to craft innovative, AI-driven applications.\n\nMain Outcome and Takeaways: Review and apply Langchain for Application development and essentials for Langchain Development. \n\n1- Foundational Understanding: Acquire a solid grasp of LangChain's core concepts and architecture. (Knowledge) \n\n2- Practical Application Development: Learn to build and deploy basic applications using LangChain. (Application) \n\n3- Simple Problem-Solving: Utilize LangChain for solving straightforward programming tasks. (Comprehension) \n\n4- Trends and Future Developments: Recognize potential future directions in LangChain and AI application development. (Analysis)",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d2/b0716ed9114b528feb938d158598f4/Logo-image.png",
+    "locale": {},
     "visible_instructors": [
       {
-        "_class": "user",
-        "title": "Kalob Taulien",
-        "name": "Kalob",
-        "display_name": "Kalob Taulien",
-        "job_title": "Web developer and coding instructor",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/226043_5d4a_6.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/226043_5d4a_6.jpg",
-        "initials": "KT",
-        "url": "/user/kalobtaulien/"
-      }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/1731774_b53c_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/1731774_b53c_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/1731774_b53c_2.jpg",
-    "published_title": "git-and-github-crash-course-creating-a-repository-from-scratch",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn how to create a Git repository, clone it, make changes, and submit changes to GitHub in less than 30 minutes.",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 247190,
-    "title": "C++ Tutorial for Complete Beginners",
-    "url": "/course/free-learn-c-tutorial-beginners/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "WLAfCaD-TpyNhjLec72ruw",
-    "visible_instructors": [
+        "display_name": "Alfred Hans Grunwaldt",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/da/acd42f29c146d9af88ab599b4f73d8/Alfred_Grunwaldt_instructor.jpg"
+      },
       {
-        "_class": "user",
-        "title": "John Purcell",
-        "name": "John",
-        "display_name": "John Purcell",
-        "job_title": "Software Development Trainer",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/219513_a344_6.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/219513_a344_6.jpg",
-        "initials": "JP",
-        "url": "/user/johnpurcell/"
+        "display_name": "Gema Sacristán",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ac/56d09f2295452493f8e49d6ef341bf/Gema_Sacristan_instructor.jpg"
+      },
+      {
+        "display_name": "Reza Moradinezhad",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/26/bdc3fbb6bc4d3da3ba79329787bcb4/Reza-Picture.jpg"
+      },
+      {
+        "display_name": "Tomás Serebrisky",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c2/6a4d34824f4e9ab3042815c3adfcd3/Tomas_Serebrisky_instructores.jpg"
+      },
+      {
+        "display_name": "María Cecilia Ramirez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8f/2e249e4d9148238859ee3f969af5e3/Maria_Cecilia_Ramirez_instructor.jpg"
+      },
+      {
+        "display_name": "Soheil Haddadi",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/83/e48a3f7ab34248b69db41f7747b256/Soheil-Profile-picture.jpg"
       }
-    ],
-    "image_125_H": "https://img-b.udemycdn.com/course/125_H/247190_5cb0_2.jpg",
-    "image_240x135": "https://img-b.udemycdn.com/course/240x135/247190_5cb0_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-b.udemycdn.com/course/480x270/247190_5cb0_2.jpg",
-    "published_title": "free-learn-c-tutorial-beginners",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_GB",
-      "title": "English (UK)",
-      "english_title": "English (UK)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "How to program in the popular (and tricky!) C++ programming language, for complete beginners.",
-    "instructor_name": null
+    ]
   }
 ]

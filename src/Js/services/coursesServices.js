@@ -8,7 +8,7 @@ const ShowCoursesData = (coursesData) => {
     e.querySelector('.author').textContent = coursesData[i].visible_instructors[0].display_name;
     e.querySelector('.author-photo').src = coursesData[i].visible_instructors[0].image_100x100;
     e.querySelector('img').src = coursesData[i].image_480x270;
-    document.querySelectorAll('.courseLink')[i].href = `https://www.udemy.com${coursesData[i].url}`;
+    document.querySelectorAll('.courseLink')[i].href = `https://www.coursera.org/learn/${coursesData[i].url}`;
     document.querySelectorAll('.courseLink')[i].target = `_blank`;
   });
 }
@@ -27,12 +27,12 @@ window.addEventListener('load', function () {
       lst.appendChild(clonedCard);
     }
   });
-  document.querySelector('.filter-container .closeFilters').addEventListener('click', ()=>{ document.querySelector('.filter-container').classList.remove('active'); })
+  document.querySelector('.filter-container .closeFilters').addEventListener('click', () => { document.querySelector('.filter-container').classList.remove('active'); })
   document.querySelector('.filters').addEventListener('click', () => {
     document.querySelector('.filter-container').classList.toggle('active');
   });
   let data = {};
-  data['category'] = document.title;
+  data['query'] = document.title;
   data['pageNum'] = 1;
   data['pageSize'] = 10;
   data['pageName'] = document.title;
@@ -41,7 +41,7 @@ window.addEventListener('load', function () {
   })
   document.querySelector('.showResults').addEventListener('click', () => {
     let data = {};
-    data['category'] = document.title;
+    data['query'] = document.title;
     data['pageNum'] = 1;
     data['pageSize'] = 10;
     data['pageName'] = document.title;

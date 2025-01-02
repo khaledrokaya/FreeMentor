@@ -4,7 +4,7 @@ export function loadData() {
     headers: {
       'Content-Type': 'application/json'
     },
-    body: JSON.stringify({ pageNum: 1, pageSize: 4, pageName: 'Home' })
+    body: JSON.stringify({ pageNum: 1, pageSize: 4, pageName: 'Home', query: "" })
   })
     .then(response => response.json())
     .then(data => {
@@ -15,7 +15,7 @@ export function loadData() {
         e.querySelector('.author').textContent = data[i].visible_instructors[0].display_name;
         e.querySelector('img').src = data[i].image_480x270;
         e.querySelector('.card-body img').src = data[i].visible_instructors[0].image_100x100;
-        e.firstElementChild.href = `https://www.udemy.com${data[i].url}`;
+        e.firstElementChild.href = `https://www.coursera.org/learn/${data[i].url}`;
       });
     })
     .catch(error => {

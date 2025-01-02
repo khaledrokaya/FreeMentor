@@ -1,879 +1,1465 @@
 [
   {
-    "_class": "course",
-    "id": 780078,
-    "title": "How to speak to anyone & be fearless - in less than 55 min",
-    "url": "/course/fearless-public-speaker-bootcamp-by-ricky-mendoza/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "K4wilIrLSvu3_uyEFnz3kw",
+    "url": "googlecloud-getting-started-with-the-vertex-ai-gemini-1-5-pro-model-i43mr",
+    "title": "Getting started with the Vertex AI Gemini 1.5 Pro Model",
+    "headline": "This is a self-paced lab that takes place in the Google Cloud console. This lab will provide an introductory, hands-on experience with Generative AI on Google Cloud.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c5/e1dc34a146454fad3d65ce2304cb2b/Logo-Image_GC-Projects.png",
+    "locale": {},
     "visible_instructors": [
       {
-        "_class": "user",
-        "title": "Ricardo Mendoza",
-        "name": "Ricardo",
-        "display_name": "Ricardo Mendoza",
-        "job_title": "Founder of Digital Work Studios and Interpretap",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/8678100_c955_2.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/8678100_c955_2.jpg",
-        "initials": "RM",
-        "url": "/user/ricardomendoza9/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/780078_e409_2.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/780078_e409_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/780078_e409_2.jpg",
-    "published_title": "fearless-public-speaker-bootcamp-by-ricky-mendoza",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn to quickly connect with crowds of strangers, be better on dates or ace that job interview.",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 352440,
-    "title": "Agile PM 101 - Learn the Truth About Agile versus Waterfall",
-    "url": "/course/learn-the-truth-about-agile-versus-waterfall/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "v7r3abkrQsSQ6vghF0Z3ow",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Agile Project Management Academy - Chuck Cobb",
-        "name": "Agile Project Management Academy -",
-        "display_name": "Agile Project Management Academy - Chuck Cobb",
-        "job_title": "Author of The Project Manager's Guide to Mastering Agile",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/7151580_fc67.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/7151580_fc67.jpg",
-        "initials": "AC",
-        "url": "/user/chuckcobb2/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/352440_01ad_6.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/352440_01ad_6.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/352440_01ad_6.jpg",
-    "published_title": "learn-the-truth-about-agile-versus-waterfall",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn to See Agile and Waterfall in a Fresh, New Perspective as Complementary Rather Than Competitive",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 574878,
-    "title": "Web Developer Course HTML CSS JavaScript Learn Web Design",
-    "url": "/course/web-developer-course-on-creating-a-business-website/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "Vims3jHsRU-2QPse8tHbMw",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Laurence Svekis",
-        "name": "Laurence",
-        "display_name": "Laurence Svekis",
-        "job_title": "Instructor, GDE, Application Developer",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/5581552_b409_26.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/5581552_b409_26.jpg",
-        "initials": "LS",
-        "url": "/user/lars51/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/574878_24d0_2.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/574878_24d0_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/574878_24d0_2.jpg",
-    "published_title": "web-developer-course-on-creating-a-business-website",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Guide to setting up a website learn about setting up a web business HTML CSS and JavaScript create your own website",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 171838,
-    "title": "Secret Sauce of Great Writing",
-    "url": "/course/secret-sauce-of-great-writing/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "PNOXUNMJSte-kkrNYQbn7Q",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Shani Raja",
-        "name": "Shani",
-        "display_name": "Shani Raja",
-        "job_title": "Ex-Wall Street Journal editor",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/1681918_d7a1_7.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/1681918_d7a1_7.jpg",
-        "initials": "SR",
-        "url": "/user/shaniraja2/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/171838_ae1b_4.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/171838_ae1b_4.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/171838_ae1b_4.jpg",
-    "published_title": "secret-sauce-of-great-writing",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Ex-Wall Street Journal Editor Teaches How To Make Your Blogs, Books & Business Writing Sparkle",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 4626276,
-    "title": "Free Lean Six Sigma Introduction Course",
-    "url": "/course/lean-six-sigma-introduction-course/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "VkH4eBNfRzySGN-D8VLzHw",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Six Sigma Academy Amsterdam",
-        "name": "Six Sigma",
-        "display_name": "Six Sigma Academy Amsterdam",
-        "job_title": "ACCREDITED TEACHING BY ACADEMICS",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/27870418_4655_13.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/27870418_4655_13.jpg",
-        "initials": "SA",
-        "url": "/user/six-sigma-academy-amsterdam/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/4626276_6f65_3.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/4626276_6f65_3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/4626276_6f65_3.jpg",
-    "published_title": "lean-six-sigma-introduction-course",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Curious about Lean Six Sigma? Here's a brief introduction. 100,000+ certified worldwide. BKO accredited",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 3918076,
-    "title": "[FREE] Google Like a Boss! Find Any Info with These Tricks",
-    "url": "/course/google-search-for-assistants/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "x9STjuCkTs2ikZviwnG02A",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Erin Booth",
-        "name": "Erin",
-        "display_name": "Erin Booth",
-        "job_title": "Helping you build a profitable VA business from Day 1!",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/37066268_9bc9_8.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/37066268_9bc9_8.jpg",
-        "initials": "EB",
-        "url": "/user/erin-booth/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/3918076_563f_3.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/3918076_563f_3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/3918076_563f_3.jpg",
-    "published_title": "google-search-for-assistants",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Cut your work in half by finding anything quickly (and accurately) using these advanced search techniques!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 3845162,
-    "title": "Complete Tableau Training for Absolute Beginners",
-    "url": "/course/tableau-for-beginners-free/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "kdxasa-0Sd-i9MSTXFgUKw",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Jed Guinto",
-        "name": "Jed",
-        "display_name": "Jed Guinto",
-        "job_title": "~500k Enrolments, ~200k Students, ~15k Reviews",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/5256930_518a_2.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/5256930_518a_2.jpg",
-        "initials": "JG",
-        "url": "/user/jedguinto/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/3845162_af97_3.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/3845162_af97_3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/3845162_af97_3.jpg",
-    "published_title": "tableau-for-beginners-free",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Master Data Visualization and Cleansing. No Microsoft Excel experience/training required!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 4858108,
-    "title": "Introduction Quality Management & Quality Assurance",
-    "url": "/course/introduction-quality-management-quality-assurance/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "j1HxHNOHSJSGdw8VRIkSWA",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Six Sigma Academy Amsterdam",
-        "name": "Six Sigma",
-        "display_name": "Six Sigma Academy Amsterdam",
-        "job_title": "ACCREDITED TEACHING BY ACADEMICS",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/27870418_4655_13.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/27870418_4655_13.jpg",
-        "initials": "SA",
-        "url": "/user/six-sigma-academy-amsterdam/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/4858108_b747_4.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/4858108_b747_4.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/4858108_b747_4.jpg",
-    "published_title": "introduction-quality-management-quality-assurance",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Free Introduction Course: Quality Management & Quality Assurance for Quality Champions",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 1959822,
-    "title": "Start a business in 5 days with Shopify and ProductListGenie",
-    "url": "/course/start-a-business-in-5-days-with-shopify-and-productlistgenie/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "TYxfq1YMS56YVi2eBlM2uA",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Tim Sharp",
-        "name": "Tim",
-        "display_name": "Tim Sharp",
-        "job_title": "A highly successful ecommerce entrepreneur since 2004",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/27743306_28b4_3.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/27743306_28b4_3.jpg",
-        "initials": "TS",
-        "url": "/user/tim-sharp-5/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/1959822_2848_3.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/1959822_2848_3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/1959822_2848_3.jpg",
-    "published_title": "start-a-business-in-5-days-with-shopify-and-productlistgenie",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Take 'The Challenge' and learn how to start an exciting ecommerce business with Shopify and Product List Genie in 5 days",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5772028,
-    "title": "Project Management Crash Course in 100 minutes",
-    "url": "/course/project-management-crash-course-100-minutes/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "EOqqrCi0SyOkdOK3YtUEbQ",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Dr. Amar Massoud",
-        "name": "Dr. Amar",
-        "display_name": "Dr. Amar Massoud",
-        "job_title": "Specialized in IT certfication trainings",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/37761614_4ae8_3.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/37761614_4ae8_3.jpg",
-        "initials": "DM",
-        "url": "/user/amar-bendou/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5772028_8b71_2.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5772028_8b71_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5772028_8b71_2.jpg",
-    "published_title": "project-management-crash-course-100-minutes",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Essentials Fast-Tracked: Navigating the Basics of Project Management",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5278946,
-    "title": "ChatGPT 101: The Complete Beginner's Guide and Masterclass",
-    "url": "/course/chatgpt-101-the-complete-beginners-guide-and-masterclass/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "XRmW0vskTFSfJhEQQ6n_-A",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "June Low",
-        "name": "June",
-        "display_name": "June Low",
-        "job_title": "Video Marketing Coach",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/26889372_1a8b_2.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/26889372_1a8b_2.jpg",
-        "initials": "JL",
-        "url": "/user/june-low/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5278946_b15e_4.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5278946_b15e_4.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5278946_b15e_4.jpg",
-    "published_title": "chatgpt-101-the-complete-beginners-guide-and-masterclass",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Leverage AI to optimize your productivity & streamline your workflows",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5328100,
-    "title": "Start a T-Shirt Business: ChatGPT & Midjourney & Etsy and IA",
-    "url": "/course/start-a-t-shirt-business-with-chatgpt-midjourney-etsy/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "vEuiPsYkRju5XPPXq8QN9g",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Diego Davila • 800.000+ Students",
-        "name": "Diego Davila",
-        "display_name": "Diego Davila • 800.000+ Students",
-        "job_title": "Entrepreneur and Social Media Innovator",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/801404_1ceb_19.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/801404_1ceb_19.jpg",
-        "initials": "D ",
-        "url": "/user/diego-davila/"
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
       },
       {
-        "_class": "user",
-        "title": "Backyard Courses",
-        "name": "Backyard",
-        "display_name": "Backyard Courses",
-        "job_title": "Your Online Academy",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/23102868_9935_8.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/23102868_9935_8.jpg",
-        "initials": "BC",
-        "url": "/user/internet-revolution/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5328100_dc2b_5.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5328100_dc2b_5.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5328100_dc2b_5.jpg",
-    "published_title": "start-a-t-shirt-business-with-chatgpt-midjourney-etsy",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Use ChatGPT & Midjourney for T-Shirt Design: Start a Print on Demand Business from Home Chat GPT & Midjourney Etsy & IA.",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 3147996,
-    "title": "SQL for Data Analysis: Solving real-world problems with data",
-    "url": "/course/sql-for-real-world-data-analysis/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "QCe1SIKdSBaBnH6a5WxAcw",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Max SQL",
-        "name": "Max",
-        "display_name": "Max SQL",
-        "job_title": "Data and Insights Manager",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/62891242_7e82.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/62891242_7e82.jpg",
-        "initials": "MS",
-        "url": "/user/max-cordony/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/3147996_60aa.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/3147996_60aa.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/3147996_60aa.jpg",
-    "published_title": "sql-for-real-world-data-analysis",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "A simple & concise mySQL course (applicable to any SQL), perfect for data analysis, data science, business intelligence.",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5497280,
-    "title": "Microsoft Power BI Course",
-    "url": "/course/microsoft-powerbi-course/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "DKjXKG_5ScaWzcSoET9LaQ",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Board Infinity",
-        "name": "Board",
-        "display_name": "Board Infinity",
-        "job_title": "Board Infinity: Empowering Careers with Learning Paths",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/239897604_d63e_7.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/239897604_d63e_7.jpg",
-        "initials": "BI",
-        "url": "/user/board-infinity/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5497280_2241_3.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5497280_2241_3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5497280_2241_3.jpg",
-    "published_title": "microsoft-powerbi-course",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Master Power BI with Board Infinity – Unlocking Data Visualization, Modeling, Connectivity, and Advanced Strategies.",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 5679768,
-    "title": "Make A Website In 1 Day: Pt 1 (FreedomMagnet Passive Income)",
-    "url": "/course/1-day-website-p1-freedom-magnet-passive-income/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "No4lZyHqSiGB8j0213RVZA",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Richard Sterling",
-        "name": "Richard",
-        "display_name": "Richard Sterling",
-        "job_title": "Passive Income Web Developer & Entrepreneur",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/252797422_67a2_3.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/252797422_67a2_3.jpg",
-        "initials": "RS",
-        "url": "/user/richard-sterling-7/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/5679768_007e_2.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/5679768_007e_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/5679768_007e_2.jpg",
-    "published_title": "1-day-website-p1-freedom-magnet-passive-income",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Learn how to whip up a high quality website in one day that people will pay well for (taken from Freedom Magnet course)",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 4209364,
-    "title": "Power BI for Business Users",
-    "url": "/course/power-bi-for-business-users/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "FVcdX3icS4mtA6H1IKKpzw",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Alex Kolokolov",
-        "name": "Alex",
-        "display_name": "Alex Kolokolov",
-        "job_title": "CEO at Institute of Business Intelligence",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/168255288_db27.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/168255288_db27.jpg",
-        "initials": "AK",
-        "url": "/user/alex-kolokolov-22/"
-      }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/4209364_0744_7.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/4209364_0744_7.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/4209364_0744_7.jpg",
-    "published_title": "power-bi-for-business-users",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_GB",
-      "title": "English (UK)",
-      "english_title": "English (UK)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Make your data speak!",
-    "instructor_name": null
-  },
-  {
-    "_class": "course",
-    "id": 82982,
-    "title": "Intro to Quantum Leaping Your Business",
-    "url": "/course/intro-to-quantum-leaping/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "ZfAHigGRQ8yaOLdTGFG-xQ",
-    "visible_instructors": [
-      {
-        "_class": "user",
-        "title": "Joeel & Natalie Rivera",
-        "name": "Joeel",
-        "display_name": "Joeel & Natalie Rivera",
-        "job_title": "Top instructor with over 700,000 students",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/988786_3723_6.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/988786_3723_6.jpg",
-        "initials": "J&",
-        "url": "/user/transformationservicesinc/"
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
       },
       {
-        "_class": "user",
-        "title": "Transformation Services",
-        "name": "Transformation",
-        "display_name": "Transformation Services",
-        "job_title": "International Academy of Life Coaching & Entrepreneurship",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/62486662_ccd9_5.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/62486662_ccd9_5.jpg",
-        "initials": "TS",
-        "url": "/user/transformation-academy/"
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
       }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/82982_955e_5.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/82982_955e_5.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/82982_955e_5.jpg",
-    "published_title": "intro-to-quantum-leaping",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "Jump start or start up your business in 6 weeks!",
-    "instructor_name": null
+    ]
   },
   {
-    "_class": "course",
-    "id": 2899504,
-    "title": "FREE COURSE: Business, Management & Leadership Fundamentals",
-    "url": "/course/free-course-business-management-leadership-fundamentals/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "32nkXH_0Qwmo5CHmrIVpPQ",
+    "url": "googlecloud-securing-compute-engine-applications-and-resources-using-chrom-or1ml",
+    "title": "Securing Compute Engine Applications and Resources using Chrome Enterprise Premium",
+    "headline": "This is a self-paced lab that takes place in the Google Cloud console. Learn how to secure a Compute Engine instance with Identity-Aware Proxy (IAP).",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8f/7d0162fcc7497f8fd420f0bcca6271/Logo-Image_GC-Projects.png",
+    "locale": {},
     "visible_instructors": [
       {
-        "_class": "user",
-        "title": "Expert Academy",
-        "name": "Expert",
-        "display_name": "Expert Academy",
-        "job_title": "Supercharge your learning with the world's leading experts",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/26685164_9f4a_4.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/26685164_9f4a_4.jpg",
-        "initials": "EA",
-        "url": "/user/expert-academy/"
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
       }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/2899504_64d3.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/2899504_64d3.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/2899504_64d3.jpg",
-    "published_title": "free-course-business-management-leadership-fundamentals",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_GB",
-      "title": "English (UK)",
-      "english_title": "English (UK)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "The Fundamentals of Public Speaking, Sales, Persuasion, Influence, Pitching, Habit Change & Reputation Management",
-    "instructor_name": null
+    ]
   },
   {
-    "_class": "course",
-    "id": 151198,
-    "title": "Basics of Scrum, Agile and Project Delivery",
-    "url": "/course/scrum-methodology/",
-    "is_paid": false,
-    "price": "Free",
-    "price_detail": null,
-    "price_serve_tracking_id": "bKMpLqc7TnGC09-C88-ivQ",
+    "url": "integrer-applications-dashboard-hootsuite",
+    "title": "Intégrer des applications dans votre Dashboard Hootsuite",
+    "headline": "À la fin de ce projet, vous aurez toutes les compétences de base pour intégrer des applications dans votre Dashboard Hootsuite. Vous serez en mesure de découvrir les différents types d’applications que vous pouvez installer et vous pourrez les intégrer facilement et rapidement à votre tableau de bord sur Hootsuite.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/17/30c95fc33c45898c483de82f07f838/Diseno-sin-titulo-18-.png",
+    "locale": {},
     "visible_instructors": [
       {
-        "_class": "user",
-        "title": "SCRUMstudy Certification",
-        "name": "SCRUMstudy",
-        "display_name": "SCRUMstudy Certification",
-        "job_title": "Global Accreditation Body for Scrum and Agile Certifications",
-        "image_50x50": "https://img-c.udemycdn.com/user/50x50/3433566_7e6e.jpg",
-        "image_100x100": "https://img-c.udemycdn.com/user/100x100/3433566_7e6e.jpg",
-        "initials": "SC",
-        "url": "/user/v78/"
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
       }
-    ],
-    "image_125_H": "https://img-c.udemycdn.com/course/125_H/151198_265f_2.jpg",
-    "image_240x135": "https://img-c.udemycdn.com/course/240x135/151198_265f_2.jpg",
-    "is_practice_test_course": false,
-    "image_480x270": "https://img-c.udemycdn.com/course/480x270/151198_265f_2.jpg",
-    "published_title": "scrum-methodology",
-    "tracking_id": "",
-    "locale": {
-      "_class": "locale",
-      "locale": "en_US",
-      "title": "English (US)",
-      "english_title": "English (US)",
-      "simple_english_title": "English"
-    },
-    "predictive_score": null,
-    "relevancy_score": null,
-    "input_features": null,
-    "lecture_search_result": null,
-    "curriculum_lectures": [],
-    "order_in_results": null,
-    "curriculum_items": [],
-    "headline": "The Scrum Body of Knowledge (SBOK™) provides guidelines for the successful implementation of Scrum methodology.",
-    "instructor_name": null
+    ]
+  },
+  {
+    "url": "overcoming-challenges-in-self-and-society",
+    "title": "Overcoming  Challenges in Self and Society",
+    "headline": "This course is an personal development and academic voyage that delves into the heart of human endurance and societal fortitude. It embarks on an exploratory mission to dissect the essence of adversity, weaving through personal, societal, and environmental intricacies. Learners will cultivate a nuanced understanding of resilience as a dynamic force and its transformative impact on the self and society.\n\nDistinguished by its interdisciplinary framework, the course fuses elements of psychology, sociology, spirituality, and ecology. It begins with a deep dive into the historical and philosophical underpinnings of adversity, engaging with diverse narratives and examining the resilience of notable figures and civilizations. The journey progresses to unveil the psychological anatomy of resilience, where learners will dissect concepts like grit and growth mindset, discerning their role in personal development and societal progress.\n\nAs the course advances, it guides learners through the spiritual and humanistic dimensions of resilience, drawing on Renaissance humanism and ancient wisdom. This module offers a kaleidoscopic view of inner strength, inviting a renaissance of personal growth. In the digital realm, students will explore how resilience manifests and adapts in the face of technological evolution and global interconnectedness.\n\nConcluding with a global perspective, the course navigates the role of resilience in societal transformation, from historical upheavals to modern challenges. Learners will emerge from this course not just as repositories of knowledge, but as empowered individuals equipped to foster resilience in themselves and ignite change within their communities.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2c/c4d6db09c343c3a765e1e924cac735/Overcoming-Challenges-in-Self-and-Society.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "getting-started-with-hootsuite-ar",
+    "title": "كيفية استعمال التطبيق هووتسويت",
+    "headline": "ينشئ العديد من الأشخاص حسابات وسائط اجتماعية متعددة ويجدون لاحقا أنه من الصعب جدا تحديث ملفاتهم الشخصية على جميع المواقع.\nولذلك ستكون هذه الدورة التدريبية عبارة عن دراسة تمهيدية عن التطبيق هووتسويت، حيث سنتعرف على كيفية إنشاء حساب مجاني، كما سنتعلم كيفية استخدام موقع هووتسويت وطبيعته وميزاته المتقدمة.\n\nفي نهاية هذه الدورة ستكون قادرا على إنشاء حسابا مجانيا وستكون لديك دراية شاملة على الواجهة الإلكترونية لهووتسويت ومميزات وخصائص هذا التطبيق.\n\nفي هذا المشروع، سنقدم لك مراجعة تفصيلية للميزات الي يقدمها هووتسويت لإدارة فعالة لوسائل التواصل الاجتماعي. الهدف هو مساعدتك في اتخاذ قرار مستنير حول ما إذا كان هووتسويت مناسب لمتطلبات إدارة لوسائط الاجتماعية الخاصة بك.\nبإكمال هذه الدورة التدريبية عن هووتسويت، وبمجرد اكتمال هذا المشروع سيكون بإمكانك الاتصال بجميع بروفايلاتك على مواقع التواصل الاجتماعي.\n\nملاحظة: تعمل هذه الدورة التدريبية بشكل أفضل للمتعلمين المقيمين في منطقة أمريكا الشمالية، نعمل حاليا على توفير نفس التجربة في مناطق أخرى.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/6ed4d5ada045cbadd3e6c58de2cd95/Untitled-design.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "gamification",
+    "title": "Gamification",
+    "headline": "Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively. For additional information on the concepts described in the course, you can purchase Professor Werbach's book For the Win: How Game Thinking Can Revolutionize Your Business in print or ebook format in several languages.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/gamification/large-icon.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "missing-data",
+    "title": "Dealing With Missing Data",
+    "headline": "This course will cover the steps used in weighting sample surveys, including methods for adjusting for nonresponse and using data external to the survey for calibration.  Among the techniques discussed are adjustments using estimated response propensities, poststratification, raking, and general regression estimation.  Alternative techniques for imputing values for missing items will be discussed.  For both weighting and imputation, the capabilities of different statistical software packages will be covered, including R®, Stata®, and SAS®.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/dd/8e0e60f75a11e5a5175d8aed3cf3b0/AdobeStock_83781931.jpg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "cs-fundamentals-3",
+    "title": "Unordered Data Structures",
+    "headline": "The Unordered Data Structures course covers the data structures and algorithms needed to implement hash tables, disjoint sets and graphs. These fundamental data structures are useful for unordered data. For example, a hash table provides immediate access to data indexed by an arbitrary key value, that could be a number (such as a memory address for cached memory), a URL (such as for a web cache) or a dictionary. Graphs are used to represent relationships between items, and this course covers several different data structures for representing graphs and several different algorithms for traversing graphs, including finding the shortest route from one node to another node. These graph algorithms will also depend on another concept called disjoint sets, so this course will also cover its data structure and associated algorithms.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c3/af0d2d2c184f819a920187eafc9563/CS400_Logo_B.jpg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "googlecloud-migrating-to-cloud-sql-from-amazon-rds-for-mysql-using-databas-lyazm",
+    "title": "Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service",
+    "headline": "This is a self-paced lab that takes place in the Google Cloud console.\n\nIn this lab, you migrate MySQL data from an Amazon RDS instance for MySQL to Cloud SQL for MySQL using a one-time Database Migration Service job and an IP allowlist for connectivity. After you create and run the migration job, you confirm that the data have been successfully migrated to your Cloud SQL for MySQL instance.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/5132d1e2b745e98406ea168e0b4196/Logo-Image_GC-Projects.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "vital-signs",
+    "title": "Vital Signs: Understanding What the Body Is Telling Us",
+    "headline": "The vital signs – heart rate, blood pressure, body temperature, respiration rate, and pain – communicate important information about the physiological status of the human body. In this six-part course we explore the anatomy and physiology underlying the vital signs so that you will develop a systematic, integrated understanding of how the body functions. Relevant body systems are reviewed including cardiovascular and respiratory, followed by explanations of how the function of these systems affects vital signs. We discuss normal ranges, normal variants, and the mechanisms that underlie changes in the objective measurement of vital signs. The course also includes demonstrations of appropriate techniques for measuring vital signs in yourself and others.\n\nThe course is designed for a broad, general audience but will be particularly interesting for individuals working in healthcare, those considering a career as a healthcare professional, lay caregivers, those with an interest in personal health and fitness, or anyone who simply wants to understand how the body functions.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/55/8d2e309e6811e3bf47177a6a987fca/Vital-Signs-1.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "fintech-disruption",
+    "title": "FinTech Disruptive Innovation: Implications for Society",
+    "headline": "This course “FinTech Disruptive Innovation: Implications for Society” help you understand how disruptive innovations create opportunity in finance industry and its impact to society especially your career. You would be able to examine and analyse how FinTech innovations would affect companies that relates to FinTech services and how it might affect your career in finance.\n\nYou will learn about how peer to peer lending disrupt finance industry in different countries, the diversity of impact by FinTech in the comparison of East vs West, Big firms vs Small firms, and different generations etc., how to predict FinTech trends in different markets, and finally what you should do to pursue your career and secure your position in FinTech industry.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/d8ad70db5911e89d6cdf1d8d124b53/fintech_disrupt.jpg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "googlecloud-develop-code-with-gemini-in-bigquery-l6l2o",
+    "title": "Develop Code with Gemini in BigQuery",
+    "headline": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you learn how to use Gemini code generation, explanation and suggestions in BigQuery.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c6/37e68e74a84a4c9dec29d2236b7480/Logo-Image_GC-Projects.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "get-started-with-ios-app-development",
+    "title": "Get Started with iOS App Development ",
+    "headline": "In a world increasingly dominated by mobile technologies, the demand for mobile app developers continues to be at an all-time high. Apple’s thriving business and enduring popularity of iPhone apps emphasize this trend. Whether you’re a beginner eager to make strides in this field or a seasoned developer seeking to upskill, mastering iOS app development is essential to succeed in this competitive market.  \n\nThis course will introduce you to the essential components, features, tools, and concepts for developing iOS apps. You will explore Xcode, its interface, and key features. You will also gain insight into the features and concepts of Swift and SwiftUI. Finally, you will develop basic iOS apps using the skills you learned throughout the course.    \n\nThe hands-on learning offered in this course will further equip you with a solid foundation for developing iOS apps.\n\nYou will require a macOS laptop or desktop to complete the hands-on labs and project. This micro-course, which will only take a few hours to complete, is suitable for beginners and experienced developers and requires no prior programming experience.\n\nSo, enroll today to gain the practical experience employers seek and prepare to take your career to new heights!",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5f/e4ba53586e4244821bfb962600f9f0/240044_Logo-Image_1200x1200pxl-copy-1-.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "modern-art-ideas",
+    "title": "Modern Art & Ideas",
+    "headline": "Modern Art & Ideas is designed for anyone interested in learning more about modern and contemporary art. You will look at art through a variety of themes, including Places and Spaces, Art and Identity, Transforming Everyday Objects, and Art and Society. \n\nEach week kicks off with a video that connects key works of art to the theme. You’ll also have access to interviews with artists, designers, and others who speak about their materials, processes, and sources of inspiration. Through the discussion forum prompts you will also have the opportunity to connect with other learners and explore how these themes resonate with you.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/65/78ce0081ad11e681d7bb31b0a632ef/starry-night.jpg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "xbox-brand-identity-and-vector-graphics",
+    "title": "Brand Identity and Vector Graphics",
+    "headline": "This course develops graphic designs skills using Adobe IIllustrator and design sensibilities through effective feedback integration and iterative design processes. Learn to leverage constructive criticism to refine your work, experiment with diverse approaches, and ultimately achieve design excellence.\n\nBy the end of this course, you'll be able to: \n\n• Develop skills in creating visually appealing compositions using Adobe Illustrator.\n• Create logos and corporate symbols that effectively represent a brand.\n• Design brand identity materials, ensuring consistency across all design elements.\n• Complete a final project that demonstrates the ability to create cohesive visual design and branding materials for a video game using Adobe Illustrator.\n\nThis is an introduction course, intended for aspiring graphic designers who want to gain essential skills in Adobe Illustrator and learn how to create professional-quality logos and branding materials, graphic designers seeking to specialize in branding, and anyone wanting to learn how to visually represent brands effectively and create consistent brand messaging across various platforms. To succeed in this course, you should have basic literacy, familiarity with basic design principles, and access to Adobe Illustrator.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/52/be88654e7a417991cd5e980f8de623/Image_1200x1200.jpg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "evolvinguniverse",
+    "title": "The Evolving Universe",
+    "headline": "This is an introductory astronomy survey class that covers our understanding of the physical universe and its major constituents, including planetary systems, stars, galaxies, black holes, quasars, larger structures, and the universe as a whole.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c9/2238c0bb9211e4b43859e37616f9c4/desktop.jpeg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "create-survey-analyze-results-with-surveymonkey",
+    "title": "Use SurveyMonkey to Create a Survey and Analyze Results",
+    "headline": "In this project, we will walk through the survey making process and explore the many ways that SurveyMonkey streamlines and simplifies data collection. We will learn how the program is organized and how it operates, helping you feel comfortable and confident enough to create your own survey to meet your own individual needs.\n\nSurveyMonkey is a cloud based survey software which allows its users to create online surveys for free. SurveyMonkey can help move a business in the right direction by collecting the opinions and thoughts of their employees, shareholders, customers, or any other invested group of individuals. After creating a survey with SurveyMonkey, you can easily email them to your target audience or post them on social media. The question templates provided by SurveyMonkey make creating a professional and thorough survey quick and easy. Its user friendly features and detailed options allow amateurs and marketing gurus alike to create the perfect survey to meet their needs. \n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b9/7fae7c92c5447b9afd3b00858be112/survey-1.jpg",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "performing-data-aggregation-using-sql-aggregate-functions",
+    "title": "Performing Data Aggregation using SQL Aggregate Functions",
+    "headline": "In this 2-hour long project-based course, you will learn how to retrieve data from tables in a database using SQL SELECT statement with SQL Aggregate functions. The aggregate functions we will consider in this project are COUNT, SUM, MIN, MAX and AVG. Aggregate functions are used to summarize data from rows of a table into a single value. In addition, you will learn how to set conditions on the output of an aggregate function using the HAVING clause. Finally, you will learn how to tidy up the result set of aggregate functions using the ROUND function.\n\nNote: You do not need to be a data administrator or data analyst to be successful in this guided project, just a familiarity with querying databases using SQL SELECT statement suffice for this project. If you are not familiar with SQL and want to learn the basics, start with my previous guided projects titled “Performing Data definition and Manipulation in SQL.\"  and “Querying Databases using SQL SELECT statement”",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/23/03686b83c44af0bee0dc62b134cb0f/Demo4.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
+  },
+  {
+    "url": "inteligencia-artificial-para-personajes-en-unreal-engine",
+    "title": "Inteligencia Artificial para personajes en Unreal Engine",
+    "headline": "Este curso está dedicado principalmente a estudiantes universitarios de primer y segundo año interesados en ciencia e ingeniería, junto con estudiantes de secundaria y profesionales interesados en programación.",
+    "image_480x270": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ae/9c5d0cd3384af58a538beafa86d54a/Captura-de-pantalla-2024-06-07-161438.png",
+    "locale": {},
+    "visible_instructors": [
+      {
+        "display_name": "Abby Saey",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/23644decdc4ebdbfd68a313f5192b1/profile-pic-2.jpg"
+      },
+      {
+        "display_name": "Lamia Labello",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ab/0d1239bbb948d3bf694092f4bfca79/Screen-Shot-2020-11-21-at-22.45.54.jpg"
+      },
+      {
+        "display_name": "Richard Valliant, Ph.D.",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/b08300fb0311e5b0a0fff4b3216ac7/RLV_1_.jpg"
+      },
+      {
+        "display_name": "Xbox",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/95/f6e2eec9d04aebacee407c2f081175/Xbox_one_logo.jpg"
+      },
+      {
+        "display_name": "Carlo Andrés Hinojosa Relión",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/2a46371ce046419fdd5b691a141c1d/WhatsApp-Image-2024-04-18-at-3.57.28-PM.jpg"
+      },
+      {
+        "display_name": " Theodore Henry King CLARK",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/16/977700565a11e7871c234d88df7530/profile_image.jpg"
+      },
+      {
+        "display_name": "S. George Djorgovski",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/37adc40916bb645de000b55b4dbef5/S.-George-Djorgovski.jpeg"
+      },
+      {
+        "display_name": "Ramanujam Srinivasan",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/56f3860203441bae51ab28c8ebe2ec/MicrosoftTeams-image-1-.jpg"
+      },
+      {
+        "display_name": "Sara Nefzaoui",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/27e3380e874e978efb86d5431e203c/sara.jpg"
+      },
+      {
+        "display_name": "Wade Fagen-Ulmschneider",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/7b5090a62c11e8b47d7195fcdb7806/wadefagen_800px.jpg"
+      },
+      {
+        "display_name": "Roger L Martinez",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/00/1c8210d84911e7a85a4fbaa6a41e19/Roger-Photo---Burgos---Spring-2016---1.jpg"
+      },
+      {
+        "display_name": "Kevin Werbach",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg"
+      },
+      {
+        "display_name": "Rashi Kapoor",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/6632f58ee24f68b20364f43ee89a61/RashiKapoor.jpg"
+      },
+      {
+        "display_name": "Google Cloud Training",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/b2a070c36c11e68cc141fab179b5aa/Google-Cloud-logo-color-850.jpg"
+      },
+      {
+        "display_name": "Arimoro Olayinka Imisioluwa",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/9654f8929f48c6b29ebb188ffbdf4b/OA-16_copy.jpg"
+      },
+      {
+        "display_name": "Connie B. Scanga, PhD",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ff/dda1809f0311e3a2f823ccb199a1c3/cbs_600x600.jpg"
+      },
+      {
+        "display_name": "Lisa Mazzola",
+        "image_100x100": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/3fa496635446078e515d5291b209c3/155_SLB09479.jpg"
+      }
+    ]
   }
 ]

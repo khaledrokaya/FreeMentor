@@ -19,6 +19,21 @@ footer ul li a { font-weight: 300; font-size: 18px; }
 .bg-lightgray { background-color: #e0e0e0aa; }
 .big-header { font-size: 30px; }
 .checked { color: #FFD43B;}
+.card-img-top{
+    max-height: 8rem;
+    min-width: 100%;
+    object-fit: cover;
+}
+.courseImage {
+    min-width: 15rem;
+}
+.headline {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 @media (max-width: 768px) {
     .logoName img { margin: 0; }
     .big-header { font-size: 26px; }
