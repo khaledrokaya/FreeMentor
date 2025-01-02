@@ -327,6 +327,7 @@ footer .text-black:hover { font-weight: 500; }
     width: 10vw;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 .next-icon svg,
 .prev-icon svg { font-size: 32px !important; }
