@@ -19,41 +19,64 @@ window.addEventListener('load', function () {
             return;
         }
 
-        if (AuthService.isAuthenticated()) {
-            // Hide login/signup buttons
+        // Function to update UI based on auth state
+        function updateUIForAuthState() {
+            const isAuthenticated = AuthService.isAuthenticated();
+
+            // Handle login/signup buttons
             loginAndSignup?.forEach(elem => {
-                if (elem) elem.style.display = 'none';
+                if (elem) {
+                    elem.style.display = isAuthenticated ? 'none' : 'flex';
+                }
             });
 
-            const userInfo = AuthService.getUserInfo();
-            if (userInfo?.name) {
-                let name = userInfo.name;
-                // Format name to show first and last name only
-                const nameParts = name.split(' ').filter(Boolean);
-                if (nameParts.length >= 2) {
-                    name = `${nameParts[0]} ${nameParts[1]}`;
+            // Handle profile section
+            if (isAuthenticated) {
+                const userInfo = AuthService.getUserInfo();
+                if (userInfo?.name) {
+                    // Format name to show first and last name only
+                    const nameParts = userInfo.name.split(' ').filter(Boolean);
+                    const displayName = nameParts.length >= 2
+                        ? `${nameParts[0]} ${nameParts[1]}`
+                        : userInfo.name;
+
+                    // Update profile name
+                    const profileName = profile.querySelector('p');
+                    if (profileName) {
+                        profileName.textContent = displayName;
+                    }
+
+                    // Update profile photo
+                    const profilePhoto = profile.querySelector('img');
+                    if (profilePhoto) {
+                        profilePhoto.src = userInfo.photo || '../Assets/Images/profile-photo.svg';
+                    }
+
+                    // Show profile section
+                    profile.classList.remove('d-none');
+                    profile.style.display = 'flex';
+
+                    // Adjust search input width
+                    const searchInput = searchForm.querySelector('input');
+                    if (searchInput) {
+                        searchInput.style.width = '85%';
+                    }
                 }
+            } else {
+                // Hide profile section when not authenticated
+                profile.classList.add('d-none');
+                profile.style.display = 'none';
 
-                const profileName = profile.querySelector('p');
-                if (profileName) profileName.textContent = name;
-
-                // Set profile photo if available
-                const profilePhoto = profile.firstElementChild;
-                if (profilePhoto && userInfo.photo) {
-                    profilePhoto.src = userInfo.photo;
+                // Reset search input width
+                const searchInput = searchForm.querySelector('input');
+                if (searchInput) {
+                    searchInput.style.width = '';
                 }
-
-                profile.classList.remove('d-none');
-                profile.style.display = 'flex';
-
-                const searchInput = searchForm.children[1];
-                if (searchInput) searchInput.style.width = '85%';
             }
-        } else {
-            loginAndSignup?.forEach(elem => {
-                if (elem) elem.style.display = 'flex';
-            });
         }
+
+        // Initial UI update
+        updateUIForAuthState();
 
         // Search functionality
         const searchIcon = searchForm.querySelector('svg');
@@ -90,13 +113,20 @@ window.addEventListener('load', function () {
         }
 
         // Logout button
-        const logoutButton = document.querySelector('.logout');
+        const logoutButton = document.querySelector('.logOut');
         if (logoutButton) {
             logoutButton.addEventListener('click', (e) => {
                 e.preventDefault();
                 AuthService.logout();
             });
         }
+
+        // Listen for storage changes (for multi-tab support)
+        window.addEventListener('storage', (e) => {
+            if (e.key === null || e.key.startsWith('g_') || ['name', 'photo', 'email'].includes(e.key)) {
+                updateUIForAuthState();
+            }
+        });
     } catch (error) {
         console.error('Error in main.js:', error);
     }

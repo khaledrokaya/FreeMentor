@@ -87,9 +87,31 @@ export class AuthService {
 
   static isAuthenticated() {
     try {
+      const token = localStorage.getItem('g_token');
       const name = localStorage.getItem('name');
       const email = localStorage.getItem('email');
-      return !!(name && email);
+
+      // Check if we have all required auth data
+      if (!token || !name || !email) {
+        return false;
+      }
+
+      // Try to decode the token to verify it's still valid
+      try {
+        const decoded = jwtDecode(token);
+        const currentTime = Date.now() / 1000;
+
+        // Check if token is expired
+        if (decoded.exp && decoded.exp < currentTime) {
+          this.logout(); // Clear expired token
+          return false;
+        }
+
+        return true;
+      } catch (error) {
+        console.error('Error decoding token:', error);
+        return false;
+      }
     } catch (error) {
       console.error('Error checking authentication:', error);
       return false;
@@ -126,11 +148,24 @@ export class AuthService {
 
   static getUserInfo() {
     try {
-      if (!this.isAuthenticated()) return null;
+      if (!this.isAuthenticated()) {
+        return null;
+      }
+
+      const name = localStorage.getItem('name');
+      const photo = localStorage.getItem('photo');
+      const email = localStorage.getItem('email');
+
+      // Verify all required fields exist
+      if (!name || !email) {
+        this.logout(); // Clear invalid data
+        return null;
+      }
+
       return {
-        name: localStorage.getItem('name'),
-        photo: localStorage.getItem('photo') || '',
-        email: localStorage.getItem('email')
+        name,
+        photo: photo || '',
+        email
       };
     } catch (error) {
       console.error('Error getting user info:', error);
