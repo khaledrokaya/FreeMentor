@@ -8,10 +8,13 @@ const ShowCoursesData = (coursesData) => {
     e.querySelector('.author').textContent = coursesData[i].visible_instructors[0].display_name;
     e.querySelector('.author-photo').src = coursesData[i].visible_instructors[0].image_100x100;
     e.querySelector('img').src = coursesData[i].image_480x270;
-    document.querySelectorAll('.courseLink')[i].href = `https://www.coursera.org/learn/${coursesData[i].url}`;
-    document.querySelectorAll('.courseLink')[i].target = `_blank`;
+    const courseLink = document.querySelectorAll('.courseLink')[i];
+    courseLink.href = coursesData[i].url;
+    courseLink.target = '_blank';
   });
 }
+
+export { ShowCoursesData };
 
 window.addEventListener('load', function () {
   let listOfCourses = document.querySelectorAll('.listofcourses .row');

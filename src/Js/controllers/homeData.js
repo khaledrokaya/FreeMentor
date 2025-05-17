@@ -15,7 +15,9 @@ export function loadData() {
         e.querySelector('.author').textContent = data[i].visible_instructors[0].display_name;
         e.querySelector('img').src = data[i].image_480x270;
         e.querySelector('.card-body img').src = data[i].visible_instructors[0].image_100x100;
-        e.firstElementChild.href = `https://www.coursera.org/learn/${data[i].url}`;
+        const courseLink = e.firstElementChild;
+        courseLink.href = data[i].url;
+        courseLink.target = '_blank';
       });
     })
     .catch(error => {

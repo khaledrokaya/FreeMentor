@@ -1,5 +1,5 @@
 export function SignUp(userData) {
-  return fetch('/signup', {
+  return fetch('/api/signup', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
@@ -17,7 +17,7 @@ export function SignUp(userData) {
 }
 
 export function LogIn(userData) {
-  return fetch('/login', {
+  return fetch('/api/login', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
